@@ -1,0 +1,12 @@
+.venv/
+ideas.txt
+__pycache__/
+predictor_hardcoded.py
+predictor_probabilities.py
+prediction_test.ipyb
+my_test copy.ipynb
+torchmultimodal/
+results/
+.DS_Store
+test_gpt2.ipynb
+to_plot/*

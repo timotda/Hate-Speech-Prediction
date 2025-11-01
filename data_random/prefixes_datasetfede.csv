@@ -1,0 +1,1384 @@
+index,text,label,weight
+1,Are,0,0.142857142857143
+1,Are there,0,0.285714285714286
+1,Are there really,0.2,0.428571428571429
+1,Are there really that,0.2,0.571428571428571
+1,Are there really that many,0.3,0.714285714285714
+1,Are there really that many gay,0.9,0.857142857142857
+1,Are there really that many gay people?!,1,1
+2,my,0,0.0476190476190476
+2,my african,0.2,0.0952380952380952
+2,my african friend,0.2,0.142857142857143
+2,my african friend asked,0.2,0.19047619047619
+2,my african friend asked me,0.2,0.238095238095238
+2,my african friend asked me if,0.2,0.285714285714286
+2,my african friend asked me if he,0.2,0.333333333333333
+2,my african friend asked me if he could,0.2,0.380952380952381
+2,my african friend asked me if he could ask,0.2,0.428571428571429
+2,my african friend asked me if he could ask for,0.2,0.476190476190476
+2,my african friend asked me if he could ask for bob,0.2,0.523809523809524
+2,my african friend asked me if he could ask for bob and,0.2,0.571428571428571
+2,my african friend asked me if he could ask for bob and vegene,0.2,0.619047619047619
+2,my african friend asked me if he could ask for bob and vegene i,0.2,0.666666666666667
+2,my african friend asked me if he could ask for bob and vegene i told,0.2,0.714285714285714
+2,my african friend asked me if he could ask for bob and vegene i told him,0.2,0.761904761904762
+2,"my african friend asked me if he could ask for bob and vegene i told him ""u",0.3,0.80952380952381
+2,"my african friend asked me if he could ask for bob and vegene i told him ""u better",0.5,0.857142857142857
+2,"my african friend asked me if he could ask for bob and vegene i told him ""u better ask",0.5,0.904761904761905
+2,"my african friend asked me if he could ask for bob and vegene i told him ""u better ask for",0.5,0.952380952380952
+2,"my african friend asked me if he could ask for bob and vegene i told him ""u better ask for food""",1,1
+3,How,0,0.125
+3,How dark,0.1,0.25
+3,How dark is,0.1,0.375
+3,How dark is my,0.1,0.5
+3,How dark is my humour?,0.4,0.625
+3,How dark is my humour? It,0.4,0.75
+3,How dark is my humour? It picks,0.8,0.875
+3,How dark is my humour? It picks cotton.,1,1
+4,What's,0,0.0555555555555556
+4,What's the,0,0.111111111111111
+4,What's the difference,0.3,0.166666666666667
+4,What's the difference between,0.3,0.222222222222222
+4,What's the difference between a,0.3,0.277777777777778
+4,What's the difference between a black,0.5,0.333333333333333
+4,What's the difference between a black man,0.8,0.388888888888889
+4,What's the difference between a black man and,0.8,0.444444444444444
+4,What's the difference between a black man and a,0.8,0.5
+4,What's the difference between a black man and a pizza?,0.9,0.555555555555556
+4,What's the difference between a black man and a pizza? A,0.9,0.611111111111111
+4,What's the difference between a black man and a pizza? A pizza,0.9,0.666666666666667
+4,What's the difference between a black man and a pizza? A pizza can,0.9,0.722222222222222
+4,What's the difference between a black man and a pizza? A pizza can feed,1,0.777777777777778
+4,What's the difference between a black man and a pizza? A pizza can feed a,1,0.833333333333333
+4,What's the difference between a black man and a pizza? A pizza can feed a family,1,0.888888888888889
+4,What's the difference between a black man and a pizza? A pizza can feed a family of,1,0.944444444444444
+4,What's the difference between a black man and a pizza? A pizza can feed a family of four,1,1
+5,why,0,0.05
+5,why do,0,0.1
+5,why do black,0.4,0.15
+5,why do black people,0.5,0.2
+5,why do black people like,0.5,0.25
+5,why do black people like the,0.5,0.3
+5,why do black people like the pokemon,0.6,0.35
+5,why do black people like the pokemon anime,0.6,0.4
+5,why do black people like the pokemon anime ?,0.6,0.45
+5,why do black people like the pokemon anime ? because,0.7,0.5
+5,why do black people like the pokemon anime ? because they,0.7,0.55
+5,why do black people like the pokemon anime ? because they can,0.7,0.6
+5,why do black people like the pokemon anime ? because they can relate,0.8,0.65
+5,why do black people like the pokemon anime ? because they can relate to,0.8,0.7
+5,why do black people like the pokemon anime ? because they can relate to the,0.8,0.75
+5,why do black people like the pokemon anime ? because they can relate to the main,0.8,0.8
+5,why do black people like the pokemon anime ? because they can relate to the main character,0.8,0.85
+5,why do black people like the pokemon anime ? because they can relate to the main character 's,0.8,0.9
+5,why do black people like the pokemon anime ? because they can relate to the main character 's fatherlessness,1,0.95
+5,why do black people like the pokemon anime ? because they can relate to the main character 's fatherlessness .,1,1
+6,"Wow,",0,0.0454545454545455
+6,"Wow, look",0,0.0909090909090909
+6,"Wow, look at",0,0.136363636363636
+6,"Wow, look at all",0,0.181818181818182
+6,"Wow, look at all these",0,0.227272727272727
+6,"Wow, look at all these black",0.4,0.272727272727273
+6,"Wow, look at all these black kids.",0.6,0.318181818181818
+6,"Wow, look at all these black kids. Hey,",0.6,0.363636363636364
+6,"Wow, look at all these black kids. Hey, I",0.6,0.409090909090909
+6,"Wow, look at all these black kids. Hey, I bet",0.7,0.454545454545455
+6,"Wow, look at all these black kids. Hey, I bet they",0.7,0.5
+6,"Wow, look at all these black kids. Hey, I bet they all",0.7,0.545454545454545
+6,"Wow, look at all these black kids. Hey, I bet they all have",0.7,0.590909090909091
+6,"Wow, look at all these black kids. Hey, I bet they all have the",0.7,0.636363636363636
+6,"Wow, look at all these black kids. Hey, I bet they all have the same",0.7,0.681818181818182
+6,"Wow, look at all these black kids. Hey, I bet they all have the same dad.",0.8,0.727272727272727
+6,"Wow, look at all these black kids. Hey, I bet they all have the same dad. All",0.8,0.772727272727273
+6,"Wow, look at all these black kids. Hey, I bet they all have the same dad. All black",1,0.818181818181818
+6,"Wow, look at all these black kids. Hey, I bet they all have the same dad. All black people",1,0.863636363636364
+6,"Wow, look at all these black kids. Hey, I bet they all have the same dad. All black people are",1,0.909090909090909
+6,"Wow, look at all these black kids. Hey, I bet they all have the same dad. All black people are totally",1,0.954545454545455
+6,"Wow, look at all these black kids. Hey, I bet they all have the same dad. All black people are totally related.",1,1
+7,Girls,0.1,0.0588235294117647
+7,Girls I,0.1,0.117647058823529
+7,Girls I have,0.1,0.176470588235294
+7,Girls I have dated,0.1,0.235294117647059
+7,Girls I have dated can,0.1,0.294117647058824
+7,Girls I have dated can never,0.3,0.352941176470588
+7,Girls I have dated can never estimate,0.3,0.411764705882353
+7,Girls I have dated can never estimate measurements.,0.4,0.470588235294118
+7,Girls I have dated can never estimate measurements. Just,0.4,0.529411764705882
+7,Girls I have dated can never estimate measurements. Just make,0.4,0.588235294117647
+7,Girls I have dated can never estimate measurements. Just make sure,0.4,0.647058823529412
+7,Girls I have dated can never estimate measurements. Just make sure you,0.4,0.705882352941177
+7,Girls I have dated can never estimate measurements. Just make sure you never,0.4,0.764705882352941
+7,Girls I have dated can never estimate measurements. Just make sure you never date,0.6,0.823529411764706
+7,Girls I have dated can never estimate measurements. Just make sure you never date a,0.6,0.882352941176471
+7,Girls I have dated can never estimate measurements. Just make sure you never date a female,0.9,0.941176470588235
+7,Girls I have dated can never estimate measurements. Just make sure you never date a female carpenter.,1,1
+8,what,0,0.0526315789473684
+8,what phrase,0,0.105263157894737
+8,what phrase do,0,0.157894736842105
+8,what phrase do black,0.4,0.210526315789474
+8,what phrase do black men,0.6,0.263157894736842
+8,what phrase do black men always,0.7,0.315789473684211
+8,what phrase do black men always love,0.8,0.368421052631579
+8,what phrase do black men always love to,0.8,0.421052631578947
+8,what phrase do black men always love to hear,0.8,0.473684210526316
+8,what phrase do black men always love to hear ?,0.8,0.526315789473684
+8,"what phrase do black men always love to hear ? """,0.8,0.578947368421053
+8,"what phrase do black men always love to hear ? "" you",0.8,0.631578947368421
+8,"what phrase do black men always love to hear ? "" you are",0.8,0.68421052631579
+8,"what phrase do black men always love to hear ? "" you are not",0.8,0.736842105263158
+8,"what phrase do black men always love to hear ? "" you are not <allcaps>",0.8,0.789473684210526
+8,"what phrase do black men always love to hear ? "" you are not <allcaps> the",0.8,0.842105263157895
+8,"what phrase do black men always love to hear ? "" you are not <allcaps> the father",1,0.894736842105263
+8,"what phrase do black men always love to hear ? "" you are not <allcaps> the father !",1,0.947368421052632
+8,"what phrase do black men always love to hear ? "" you are not <allcaps> the father ! """,1,1
+9,how,0,0.0555555555555556
+9,how many,0,0.111111111111111
+9,how many feminists,0.5,0.166666666666667
+9,how many feminists does,0.5,0.222222222222222
+9,how many feminists does it,0.6,0.277777777777778
+9,how many feminists does it take,0.7,0.333333333333333
+9,how many feminists does it take to,0.7,0.388888888888889
+9,how many feminists does it take to change,0.8,0.444444444444444
+9,how many feminists does it take to change a,0.8,0.5
+9,how many feminists does it take to change a light,0.9,0.555555555555556
+9,how many feminists does it take to change a light bulb,0.9,0.611111111111111
+9,how many feminists does it take to change a light bulb ?,0.9,0.666666666666667
+9,how many feminists does it take to change a light bulb ? feminists,0.9,0.722222222222222
+9,how many feminists does it take to change a light bulb ? feminists ca,1,0.777777777777778
+9,how many feminists does it take to change a light bulb ? feminists ca n't,1,0.833333333333333
+9,how many feminists does it take to change a light bulb ? feminists ca n't change,1,0.888888888888889
+9,how many feminists does it take to change a light bulb ? feminists ca n't change anything,1,0.944444444444444
+9,how many feminists does it take to change a light bulb ? feminists ca n't change anything .,1,1
+10,How,0,0.0833333333333333
+10,How do,0,0.166666666666667
+10,How do you,0,0.25
+10,How do you make,0,0.333333333333333
+10,How do you make a,0,0.416666666666667
+10,How do you make a baby,0,0.5
+10,How do you make a baby explode,0.4,0.583333333333333
+10,How do you make a baby explode You,0.4,0.666666666666667
+10,How do you make a baby explode You convert,0.6,0.75
+10,How do you make a baby explode You convert it,0.6,0.833333333333333
+10,How do you make a baby explode You convert it to,0.6,0.916666666666667
+10,How do you make a baby explode You convert it to islam,1,1
+11,How,0,0.0625
+11,How come,0,0.125
+11,How come there,0,0.1875
+11,How come there aren't,0,0.25
+11,How come there aren't any,0,0.3125
+11,How come there aren't any Mexicans,0.6,0.375
+11,How come there aren't any Mexicans in,0.6,0.4375
+11,How come there aren't any Mexicans in Star,0.6,0.5
+11,How come there aren't any Mexicans in Star Trek?,0.7,0.5625
+11,How come there aren't any Mexicans in Star Trek? They,0.7,0.625
+11,How come there aren't any Mexicans in Star Trek? They don't,0.8,0.6875
+11,How come there aren't any Mexicans in Star Trek? They don't work,1,0.75
+11,How come there aren't any Mexicans in Star Trek? They don't work in,1,0.8125
+11,How come there aren't any Mexicans in Star Trek? They don't work in the,1,0.875
+11,How come there aren't any Mexicans in Star Trek? They don't work in the future,1,0.9375
+11,How come there aren't any Mexicans in Star Trek? They don't work in the future either.,1,1
+12,Where,0,0.0909090909090909
+12,Where do,0,0.181818181818182
+12,Where do people,0,0.272727272727273
+12,Where do people in,0,0.363636363636364
+12,Where do people in China,0.2,0.454545454545455
+12,Where do people in China buy,0.2,0.545454545454545
+12,Where do people in China buy their,0.2,0.636363636363636
+12,Where do people in China buy their groceries?,0.2,0.727272727272727
+12,Where do people in China buy their groceries? Pets,0.7,0.818181818181818
+12,Where do people in China buy their groceries? Pets at,0.9,0.909090909090909
+12,Where do people in China buy their groceries? Pets at Home.,1,1
+12,Where,0,0.0909090909090909
+12,Where are,0,0.181818181818182
+12,Where are Jews,0.6,0.272727272727273
+12,Where are Jews most,0.6,0.363636363636364
+12,Where are Jews most found?,0.7,0.454545454545455
+12,Where are Jews most found? In,0.7,0.545454545454545
+12,Where are Jews most found? In the,0.7,0.636363636363636
+12,Where are Jews most found? In the atmosphere.,1,0.727272727272727
+13,I'm,0,0.0344827586206897
+13,I'm not,0,0.0689655172413793
+13,I'm not going,0,0.103448275862069
+13,I'm not going to,0,0.137931034482759
+13,I'm not going to screen,0,0.172413793103448
+13,I'm not going to screen you,0,0.206896551724138
+13,I'm not going to screen you for,0,0.241379310344828
+13,I'm not going to screen you for STDs,0.2,0.275862068965517
+13,I'm not going to screen you for STDs because,0.2,0.310344827586207
+13,I'm not going to screen you for STDs because you,0.2,0.344827586206897
+13,I'm not going to screen you for STDs because you aren't,0.2,0.379310344827586
+13,I'm not going to screen you for STDs because you aren't really,0.2,0.413793103448276
+13,I'm not going to screen you for STDs because you aren't really at,0.2,0.448275862068966
+13,I'm not going to screen you for STDs because you aren't really at risk,0.2,0.482758620689655
+13,I'm not going to screen you for STDs because you aren't really at risk as,0.2,0.517241379310345
+13,I'm not going to screen you for STDs because you aren't really at risk as a,0.4,0.551724137931035
+13,I'm not going to screen you for STDs because you aren't really at risk as a lesbian.,0.6,0.586206896551724
+13,I'm not going to screen you for STDs because you aren't really at risk as a lesbian. But,0.6,0.620689655172414
+13,I'm not going to screen you for STDs because you aren't really at risk as a lesbian. But then,0.6,0.655172413793103
+13,"I'm not going to screen you for STDs because you aren't really at risk as a lesbian. But then again,",0.7,0.689655172413793
+13,"I'm not going to screen you for STDs because you aren't really at risk as a lesbian. But then again, I",0.7,0.724137931034483
+13,"I'm not going to screen you for STDs because you aren't really at risk as a lesbian. But then again, I don't",0.7,0.758620689655172
+13,"I'm not going to screen you for STDs because you aren't really at risk as a lesbian. But then again, I don't really",0.7,0.793103448275862
+13,"I'm not going to screen you for STDs because you aren't really at risk as a lesbian. But then again, I don't really know",0.7,0.827586206896552
+13,"I'm not going to screen you for STDs because you aren't really at risk as a lesbian. But then again, I don't really know how",0.7,0.862068965517241
+13,"I'm not going to screen you for STDs because you aren't really at risk as a lesbian. But then again, I don't really know how you",0.7,0.896551724137931
+13,"I'm not going to screen you for STDs because you aren't really at risk as a lesbian. But then again, I don't really know how you people",1,0.931034482758621
+13,"I'm not going to screen you for STDs because you aren't really at risk as a lesbian. But then again, I don't really know how you people have",1,0.96551724137931
+13,"I'm not going to screen you for STDs because you aren't really at risk as a lesbian. But then again, I don't really know how you people have sex.",1,1
+14,i,0,0.0769230769230769
+14,i like,0,0.153846153846154
+14,i like my,0,0.230769230769231
+14,i like my lakes,0,0.307692307692308
+14,i like my lakes like,0.3,0.384615384615385
+14,i like my lakes like i,0.4,0.461538461538462
+14,i like my lakes like i like,0.5,0.538461538461538
+14,i like my lakes like i like my,0.6,0.615384615384615
+14,i like my lakes like i like my white,0.7,0.692307692307692
+14,i like my lakes like i like my white men,0.9,0.769230769230769
+14,i like my lakes like i like my white men .,0.9,0.846153846153846
+14,i like my lakes like i like my white men . superior,1,0.923076923076923
+14,i like my lakes like i like my white men . superior .,1,1
+15,i,0,0.05
+15,i knew,0,0.1
+15,i knew a,0,0.15
+15,i knew a guy,0,0.2
+15,i knew a guy who,0,0.25
+15,i knew a guy who died,0.2,0.3
+15,i knew a guy who died in,0.2,0.35
+15,i knew a guy who died in a,0.2,0.4
+15,i knew a guy who died in a terrorist,0.3,0.45
+15,i knew a guy who died in a terrorist attack,0.3,0.5
+15,i knew a guy who died in a terrorist attack .,0.3,0.55
+15,i knew a guy who died in a terrorist attack . <repeat>,0.3,0.6
+15,i knew a guy who died in a terrorist attack . <repeat> his,0.3,0.65
+15,i knew a guy who died in a terrorist attack . <repeat> his last,0.3,0.7
+15,i knew a guy who died in a terrorist attack . <repeat> his last words,0.3,0.75
+15,i knew a guy who died in a terrorist attack . <repeat> his last words were,0.3,0.8
+15,"i knew a guy who died in a terrorist attack . <repeat> his last words were """,0.3,0.85
+15,"i knew a guy who died in a terrorist attack . <repeat> his last words were "" allahu",1,0.9
+15,"i knew a guy who died in a terrorist attack . <repeat> his last words were "" allahu akbar",1,0.95
+15,"i knew a guy who died in a terrorist attack . <repeat> his last words were "" allahu akbar """,1,1
+16,Whats,0,0.111111111111111
+16,Whats worse,0.2,0.222222222222222
+16,Whats worse than,0.2,0.333333333333333
+16,Whats worse than a,0.2,0.444444444444444
+16,Whats worse than a Jason,0.4,0.555555555555556
+16,Whats worse than a Jason Aldean,0.4,0.666666666666667
+16,Whats worse than a Jason Aldean concert?,0.4,0.777777777777778
+16,Whats worse than a Jason Aldean concert? Being,0.4,0.888888888888889
+16,Whats worse than a Jason Aldean concert? Being black,1,1
+17,If,0,0.05
+17,If you,0,0.1
+17,If you can,0,0.15
+17,If you can stop,0,0.2
+17,If you can stop a,0,0.25
+17,If you can stop a comma,0,0.3
+17,If you can stop a comma with,0,0.35
+17,If you can stop a comma with a,0,0.4
+17,If you can stop a comma with a period,0,0.45
+17,"If you can stop a comma with a period point,",0,0.5
+17,"If you can stop a comma with a period point, what",0.2,0.55
+17,"If you can stop a comma with a period point, what do",0.2,0.6
+17,"If you can stop a comma with a period point, what do you",0.2,0.65
+17,"If you can stop a comma with a period point, what do you use",0.2,0.7
+17,"If you can stop a comma with a period point, what do you use to",0.2,0.75
+17,"If you can stop a comma with a period point, what do you use to stop",0.2,0.8
+17,"If you can stop a comma with a period point, what do you use to stop a",0.2,0.85
+17,"If you can stop a comma with a period point, what do you use to stop a coma?",0.4,0.9
+17,"If you can stop a comma with a period point, what do you use to stop a coma? A",0.9,0.95
+17,"If you can stop a comma with a period point, what do you use to stop a coma? A hollow-point.",1,1
+18,daddy,0,0.0208333333333333
+18,"daddy ,",0,0.0416666666666667
+18,"daddy , am",0,0.0625
+18,"daddy , am i",0,0.0833333333333333
+18,"daddy , am i more",0,0.104166666666667
+18,"daddy , am i more black",0.4,0.125
+18,"daddy , am i more black or",0.4,0.145833333333333
+18,"daddy , am i more black or muslim",0.7,0.166666666666667
+18,"daddy , am i more black or muslim ?",0.7,0.1875
+18,"daddy , am i more black or muslim ? -",0.7,0.208333333333333
+18,"daddy , am i more black or muslim ? - why",0.7,0.229166666666667
+18,"daddy , am i more black or muslim ? - why are",0.7,0.25
+18,"daddy , am i more black or muslim ? - why are you",0.7,0.270833333333333
+18,"daddy , am i more black or muslim ? - why are you asking",0.7,0.291666666666667
+18,"daddy , am i more black or muslim ? - why are you asking ,",0.7,0.3125
+18,"daddy , am i more black or muslim ? - why are you asking , son",0.7,0.333333333333333
+18,"daddy , am i more black or muslim ? - why are you asking , son ?",0.7,0.354166666666667
+18,"daddy , am i more black or muslim ? - why are you asking , son ? -",0.7,0.375
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there",0.7,0.395833333333333
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is",0.7,0.416666666666667
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a",0.7,0.4375
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank",0.8,0.458333333333333
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on",0.8,0.479166666666667
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the",0.8,0.5
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number>",0.8,0.520833333333333
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h",0.8,0.541666666666667
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor",0.8,0.5625
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of",0.8,0.583333333333333
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a",0.8,0.604166666666667
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new",0.8,0.625
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building",0.8,0.645833333333333
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building ,",0.8,0.666666666666667
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and",0.8,0.6875
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i",0.8,0.708333333333333
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i do",0.8,0.729166666666667
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i do n't",0.8,0.75
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i do n't know",0.8,0.770833333333333
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i do n't know whether",0.8,0.791666666666667
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i do n't know whether to",0.8,0.8125
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i do n't know whether to rob",1,0.833333333333333
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i do n't know whether to rob it",1,0.854166666666667
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i do n't know whether to rob it or",1,0.875
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i do n't know whether to rob it or fly",1,0.895833333333333
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i do n't know whether to rob it or fly a",1,0.916666666666667
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i do n't know whether to rob it or fly a plane",1,0.9375
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i do n't know whether to rob it or fly a plane into",1,0.958333333333333
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i do n't know whether to rob it or fly a plane into it",1,0.979166666666667
+18,"daddy , am i more black or muslim ? - why are you asking , son ? - there is a bank on the <number> h floor of a new building , and i do n't know whether to rob it or fly a plane into it .",1,1
+19,Wanna,0,0.142857142857143
+19,Wanna hear,0,0.285714285714286
+19,Wanna hear a,0,0.428571428571429
+19,Wanna hear a joke?,0.4,0.571428571428571
+19,Wanna hear a joke? Black,0.8,0.714285714285714
+19,Wanna hear a joke? Black Lives,1,0.857142857142857
+19,Wanna hear a joke? Black Lives Matter,1,1
+20,what,0,0.0454545454545455
+20,what 's,0,0.0909090909090909
+20,what 's black,0.5,0.136363636363636
+20,what 's black and,0.5,0.181818181818182
+20,what 's black and white,0.5,0.227272727272727
+20,what 's black and white and,0.5,0.272727272727273
+20,what 's black and white and rolls,0.6,0.318181818181818
+20,what 's black and white and rolls down,0.6,0.363636363636364
+20,what 's black and white and rolls down a,0.6,0.409090909090909
+20,what 's black and white and rolls down a hill,0.7,0.454545454545455
+20,what 's black and white and rolls down a hill ?,0.7,0.5
+20,what 's black and white and rolls down a hill ? a,0.7,0.545454545454545
+20,what 's black and white and rolls down a hill ? a maori,0.9,0.590909090909091
+20,what 's black and white and rolls down a hill ? a maori and,0.9,0.636363636363636
+20,what 's black and white and rolls down a hill ? a maori and a,0.9,0.681818181818182
+20,what 's black and white and rolls down a hill ? a maori and a seagull,0.9,0.727272727272727
+20,what 's black and white and rolls down a hill ? a maori and a seagull fighting,1,0.772727272727273
+20,what 's black and white and rolls down a hill ? a maori and a seagull fighting over,1,0.818181818181818
+20,what 's black and white and rolls down a hill ? a maori and a seagull fighting over a,1,0.863636363636364
+20,what 's black and white and rolls down a hill ? a maori and a seagull fighting over a fish,1,0.909090909090909
+20,what 's black and white and rolls down a hill ? a maori and a seagull fighting over a fish head,1,0.954545454545455
+20,what 's black and white and rolls down a hill ? a maori and a seagull fighting over a fish head .,1,1
+21,How,0,0.0454545454545455
+21,How does,0,0.0909090909090909
+21,How does a,0,0.136363636363636
+21,How does a Mexican,0.5,0.181818181818182
+21,How does a Mexican family,0.5,0.227272727272727
+21,How does a Mexican family take,0.5,0.272727272727273
+21,How does a Mexican family take a,0.5,0.318181818181818
+21,How does a Mexican family take a photo,0.5,0.363636363636364
+21,How does a Mexican family take a photo together?,0.5,0.409090909090909
+21,How does a Mexican family take a photo together? They,0.6,0.454545454545455
+21,How does a Mexican family take a photo together? They get,0.6,0.5
+21,How does a Mexican family take a photo together? They get in,0.6,0.545454545454545
+21,How does a Mexican family take a photo together? They get in the,0.6,0.590909090909091
+21,How does a Mexican family take a photo together? They get in the back,0.6,0.636363636363636
+21,How does a Mexican family take a photo together? They get in the back of,0.6,0.681818181818182
+21,How does a Mexican family take a photo together? They get in the back of a,0.6,0.727272727272727
+21,How does a Mexican family take a photo together? They get in the back of a truck,0.8,0.772727272727273
+21,How does a Mexican family take a photo together? They get in the back of a truck and,0.8,0.818181818181818
+21,How does a Mexican family take a photo together? They get in the back of a truck and run,1,0.863636363636364
+21,How does a Mexican family take a photo together? They get in the back of a truck and run a,1,0.909090909090909
+21,How does a Mexican family take a photo together? They get in the back of a truck and run a red,1,0.954545454545455
+21,How does a Mexican family take a photo together? They get in the back of a truck and run a red light.,1,1
+22,A,0,0.0714285714285714
+22,A black,0.5,0.142857142857143
+22,A black guy,0.6,0.214285714285714
+22,A black guy and,0.6,0.285714285714286
+22,A black guy and Mexican,0.8,0.357142857142857
+22,A black guy and Mexican were,0.8,0.428571428571429
+22,A black guy and Mexican were in,0.8,0.5
+22,A black guy and Mexican were in a,0.8,0.571428571428571
+22,"A black guy and Mexican were in a car,",0.8,0.642857142857143
+22,"A black guy and Mexican were in a car, Who",0.8,0.714285714285714
+22,"A black guy and Mexican were in a car, Who is",0.8,0.785714285714286
+22,"A black guy and Mexican were in a car, Who is driving?",0.8,0.857142857142857
+22,"A black guy and Mexican were in a car, Who is driving? The",0.8,0.928571428571429
+22,"A black guy and Mexican were in a car, Who is driving? The Cop",1,1
+23,"Today,",0,0.0476190476190476
+23,"Today, I",0,0.0952380952380952
+23,"Today, I bought",0,0.142857142857143
+23,"Today, I bought a",0,0.19047619047619
+23,"Today, I bought a Rolex",0,0.238095238095238
+23,"Today, I bought a Rolex from",0,0.285714285714286
+23,"Today, I bought a Rolex from a",0,0.333333333333333
+23,"Today, I bought a Rolex from a black",0.5,0.380952380952381
+23,"Today, I bought a Rolex from a black guy",0.6,0.428571428571429
+23,"Today, I bought a Rolex from a black guy for",0.6,0.476190476190476
+23,"Today, I bought a Rolex from a black guy for a",0.6,0.523809523809524
+23,"Today, I bought a Rolex from a black guy for a bargain.",0.6,0.571428571428571
+23,"Today, I bought a Rolex from a black guy for a bargain. I",0.6,0.619047619047619
+23,"Today, I bought a Rolex from a black guy for a bargain. I would",0.6,0.666666666666667
+23,"Today, I bought a Rolex from a black guy for a bargain. I would even",0.6,0.714285714285714
+23,"Today, I bought a Rolex from a black guy for a bargain. I would even say",0.6,0.761904761904762
+23,"Today, I bought a Rolex from a black guy for a bargain. I would even say it",0.6,0.80952380952381
+23,"Today, I bought a Rolex from a black guy for a bargain. I would even say it was",0.6,0.857142857142857
+23,"Today, I bought a Rolex from a black guy for a bargain. I would even say it was almost",0.7,0.904761904761905
+23,"Today, I bought a Rolex from a black guy for a bargain. I would even say it was almost a",0.7,0.952380952380952
+23,"Today, I bought a Rolex from a black guy for a bargain. I would even say it was almost a steal.",1,1
+24,what,0,0.0454545454545455
+24,what do,0,0.0909090909090909
+24,what do you,0,0.136363636363636
+24,what do you do,0,0.181818181818182
+24,what do you do when,0,0.227272727272727
+24,what do you do when someone,0,0.272727272727273
+24,what do you do when someone is,0,0.318181818181818
+24,what do you do when someone is having,0,0.363636363636364
+24,what do you do when someone is having a,0,0.409090909090909
+24,what do you do when someone is having a seizure,0,0.454545454545455
+24,what do you do when someone is having a seizure in,0,0.5
+24,what do you do when someone is having a seizure in the,0,0.545454545454545
+24,what do you do when someone is having a seizure in the bath,0,0.590909090909091
+24,what do you do when someone is having a seizure in the bath ?,0,0.636363636363636
+24,what do you do when someone is having a seizure in the bath ? throw,0.2,0.681818181818182
+24,what do you do when someone is having a seizure in the bath ? throw a,0.2,0.727272727272727
+24,what do you do when someone is having a seizure in the bath ? throw a load,0.4,0.772727272727273
+24,what do you do when someone is having a seizure in the bath ? throw a load of,0.4,0.818181818181818
+24,what do you do when someone is having a seizure in the bath ? throw a load of dirty,0.7,0.863636363636364
+24,what do you do when someone is having a seizure in the bath ? throw a load of dirty laundry,1,0.909090909090909
+24,what do you do when someone is having a seizure in the bath ? throw a load of dirty laundry in,1,0.954545454545455
+24,what do you do when someone is having a seizure in the bath ? throw a load of dirty laundry in .,1,1
+25,how,0,0.037037037037037
+25,how do,0,0.0740740740740741
+25,how do you,0,0.111111111111111
+25,how do you fit,0,0.148148148148148
+25,how do you fit a,0,0.185185185185185
+25,how do you fit a group,0.3,0.222222222222222
+25,how do you fit a group of,0.3,0.259259259259259
+25,how do you fit a group of jews,0.6,0.296296296296296
+25,how do you fit a group of jews into,0.7,0.333333333333333
+25,how do you fit a group of jews into a,0.7,0.37037037037037
+25,how do you fit a group of jews into a mercedes,0.7,0.407407407407407
+25,how do you fit a group of jews into a mercedes ?,0.7,0.444444444444444
+25,how do you fit a group of jews into a mercedes ? <number>,0.8,0.481481481481481
+25,how do you fit a group of jews into a mercedes ? <number> in,0.8,0.518518518518519
+25,how do you fit a group of jews into a mercedes ? <number> in the,0.8,0.555555555555556
+25,how do you fit a group of jews into a mercedes ? <number> in the front,0.8,0.592592592592593
+25,"how do you fit a group of jews into a mercedes ? <number> in the front ,",0.8,0.62962962962963
+25,"how do you fit a group of jews into a mercedes ? <number> in the front , <number>",0.8,0.666666666666667
+25,"how do you fit a group of jews into a mercedes ? <number> in the front , <number> in",0.8,0.703703703703704
+25,"how do you fit a group of jews into a mercedes ? <number> in the front , <number> in the",0.8,0.740740740740741
+25,"how do you fit a group of jews into a mercedes ? <number> in the front , <number> in the back",0.8,0.777777777777778
+25,"how do you fit a group of jews into a mercedes ? <number> in the front , <number> in the back and",0.8,0.814814814814815
+25,"how do you fit a group of jews into a mercedes ? <number> in the front , <number> in the back and <number>",0.8,0.851851851851852
+25,"how do you fit a group of jews into a mercedes ? <number> in the front , <number> in the back and <number> in",0.8,0.888888888888889
+25,"how do you fit a group of jews into a mercedes ? <number> in the front , <number> in the back and <number> in the",0.8,0.925925925925926
+25,"how do you fit a group of jews into a mercedes ? <number> in the front , <number> in the back and <number> in the ashtray",1,0.962962962962963
+25,"how do you fit a group of jews into a mercedes ? <number> in the front , <number> in the back and <number> in the ashtray .",1,1
+26,What,0,0.0909090909090909
+26,What do,0,0.181818181818182
+26,What do you,0,0.272727272727273
+26,What do you call,0.4,0.363636363636364
+26,What do you call two,0.4,0.454545454545455
+26,What do you call two Mexicans,0.7,0.545454545454545
+26,What do you call two Mexicans playing,0.7,0.636363636363636
+26,What do you call two Mexicans playing basketball?,0.7,0.727272727272727
+26,What do you call two Mexicans playing basketball? Juan,0.8,0.818181818181818
+26,What do you call two Mexicans playing basketball? Juan on,0.9,0.909090909090909
+26,What do you call two Mexicans playing basketball? Juan on Juan,1,1
+27,Exactly,0,0.0666666666666667
+27,Exactly what,0,0.133333333333333
+27,Exactly what the,0,0.2
+27,Exactly what the #LeftistLibTards,1,0.266666666666667
+27,Exactly what the #LeftistLibTards wanted,1,0.333333333333333
+27,Exactly what the #LeftistLibTards wanted to,1,0.4
+27,Exactly what the #LeftistLibTards wanted to happen.,1,0.466666666666667
+27,Exactly what the #LeftistLibTards wanted to happen. Try,1,0.533333333333333
+27,Exactly what the #LeftistLibTards wanted to happen. Try are,1,0.6
+27,Exactly what the #LeftistLibTards wanted to happen. Try are a,1,0.666666666666667
+27,Exactly what the #LeftistLibTards wanted to happen. Try are a #Corrupt,1,0.733333333333333
+27,Exactly what the #LeftistLibTards wanted to happen. Try are a #Corrupt and,1,0.8
+27,Exactly what the #LeftistLibTards wanted to happen. Try are a #Corrupt and #Miserable,1,0.866666666666667
+27,Exactly what the #LeftistLibTards wanted to happen. Try are a #Corrupt and #Miserable Party.,1,0.933333333333333
+27,Exactly what the #LeftistLibTards wanted to happen. Try are a #Corrupt and #Miserable Party. URL,1,1
+28,You,0,0.0384615384615385
+28,You really,0,0.0769230769230769
+28,You really have,0,0.115384615384615
+28,You really have to,0,0.153846153846154
+28,You really have to let,0,0.192307692307692
+28,You really have to let it,0,0.230769230769231
+28,You really have to let it go.,0,0.269230769230769
+28,You really have to let it go. He's,0,0.307692307692308
+28,You really have to let it go. He's going,0,0.346153846153846
+28,You really have to let it go. He's going to,0,0.384615384615385
+28,You really have to let it go. He's going to get,0,0.423076923076923
+28,You really have to let it go. He's going to get confirmed.,0,0.461538461538462
+28,You really have to let it go. He's going to get confirmed. You,0,0.5
+28,You really have to let it go. He's going to get confirmed. You can,0,0.538461538461538
+28,You really have to let it go. He's going to get confirmed. You can continue,0,0.576923076923077
+28,You really have to let it go. He's going to get confirmed. You can continue to,0,0.615384615384615
+28,You really have to let it go. He's going to get confirmed. You can continue to kill,0.4,0.653846153846154
+28,You really have to let it go. He's going to get confirmed. You can continue to kill babies,0.6,0.692307692307692
+28,You really have to let it go. He's going to get confirmed. You can continue to kill babies and,0.6,0.730769230769231
+28,You really have to let it go. He's going to get confirmed. You can continue to kill babies and gun,0.7,0.769230769230769
+28,You really have to let it go. He's going to get confirmed. You can continue to kill babies and gun violence,0.7,0.807692307692308
+28,You really have to let it go. He's going to get confirmed. You can continue to kill babies and gun violence will,0.7,0.846153846153846
+28,You really have to let it go. He's going to get confirmed. You can continue to kill babies and gun violence will continue,0.7,0.884615384615385
+28,You really have to let it go. He's going to get confirmed. You can continue to kill babies and gun violence will continue despite,0.7,0.923076923076923
+28,You really have to let it go. He's going to get confirmed. You can continue to kill babies and gun violence will continue despite gun,0.7,0.961538461538462
+28,You really have to let it go. He's going to get confirmed. You can continue to kill babies and gun violence will continue despite gun control.,0.7,1
+29,except,0,0.0294117647058824
+29,except antifa,0.2,0.0588235294117647
+29,except antifa don’t,0.2,0.0882352941176471
+29,except antifa don’t fit,0.2,0.117647058823529
+29,except antifa don’t fit any,0.2,0.147058823529412
+29,except antifa don’t fit any of,0.2,0.176470588235294
+29,except antifa don’t fit any of the,0.2,0.205882352941176
+29,except antifa don’t fit any of the archetypes,0.2,0.235294117647059
+29,except antifa don’t fit any of the archetypes of,0.2,0.264705882352941
+29,except antifa don’t fit any of the archetypes of fascism?,0.3,0.294117647058824
+29,except antifa don’t fit any of the archetypes of fascism? if,0.3,0.323529411764706
+29,except antifa don’t fit any of the archetypes of fascism? if your,0.3,0.352941176470588
+29,except antifa don’t fit any of the archetypes of fascism? if your definition,0.3,0.382352941176471
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of,0.3,0.411764705882353
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism,0.4,0.441176470588235
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is,0.4,0.470588235294118
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears,0.4,0.5
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a,0.4,0.529411764705882
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask,0.4,0.558823529411765
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and,0.4,0.588235294117647
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and is,0.4,0.617647058823529
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and is violent”,0.4,0.647058823529412
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and is violent” then,0.4,0.676470588235294
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and is violent” then you,0.4,0.705882352941177
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and is violent” then you should,0.4,0.735294117647059
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and is violent” then you should also,0.4,0.764705882352941
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and is violent” then you should also include:,0.4,0.794117647058824
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and is violent” then you should also include: -riot,0.4,0.823529411764706
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and is violent” then you should also include: -riot cops,0.4,0.852941176470588
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and is violent” then you should also include: -riot cops -the,0.4,0.882352941176471
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and is violent” then you should also include: -riot cops -the military,0.4,0.911764705882353
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and is violent” then you should also include: -riot cops -the military -right,0.4,0.941176470588235
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and is violent” then you should also include: -riot cops -the military -right wing,0.4,0.970588235294118
+29,except antifa don’t fit any of the archetypes of fascism? if your definition of fascism is “wears a mask and is violent” then you should also include: -riot cops -the military -right wing demonstrators,0.4,1
+30,lemme,0.1,0.0555555555555556
+30,lemme rap,0.1,0.111111111111111
+30,lemme rap on,0.1,0.166666666666667
+30,lemme rap on that,0.1,0.222222222222222
+30,lemme rap on that shit.,0.3,0.277777777777778
+30,lemme rap on that shit. I'll,0.3,0.333333333333333
+30,lemme rap on that shit. I'll do,0.3,0.388888888888889
+30,lemme rap on that shit. I'll do a,0.3,0.444444444444444
+30,lemme rap on that shit. I'll do a video,0.3,0.5
+30,lemme rap on that shit. I'll do a video floatin,0.3,0.555555555555556
+30,lemme rap on that shit. I'll do a video floatin downstream,0.3,0.611111111111111
+30,lemme rap on that shit. I'll do a video floatin downstream in,0.3,0.666666666666667
+30,lemme rap on that shit. I'll do a video floatin downstream in a,0.3,0.722222222222222
+30,lemme rap on that shit. I'll do a video floatin downstream in a coffin,0.4,0.777777777777778
+30,lemme rap on that shit. I'll do a video floatin downstream in a coffin like,0.4,0.833333333333333
+30,lemme rap on that shit. I'll do a video floatin downstream in a coffin like in,0.4,0.888888888888889
+30,lemme rap on that shit. I'll do a video floatin downstream in a coffin like in horrorland,0.4,0.944444444444444
+30,lemme rap on that shit. I'll do a video floatin downstream in a coffin like in horrorland lol,0.4,1
+1,the,0,0.0333333333333333
+1,the prophet,0,0.0666666666666667
+1,the prophet mohammed,0.3,0.1
+1,the prophet mohammed and,0.3,0.133333333333333
+1,the prophet mohammed and his,0.3,0.166666666666667
+1,the prophet mohammed and his wife,0.3,0.2
+1,the prophet mohammed and his wife walk,0.5,0.233333333333333
+1,the prophet mohammed and his wife walk into,0.6,0.266666666666667
+1,the prophet mohammed and his wife walk into a,0.6,0.3
+1,the prophet mohammed and his wife walk into a pub,0.7,0.333333333333333
+1,the prophet mohammed and his wife walk into a pub and,0.7,0.366666666666667
+1,the prophet mohammed and his wife walk into a pub and the,0.7,0.4
+1,the prophet mohammed and his wife walk into a pub and the barman,0.7,0.433333333333333
+1,the prophet mohammed and his wife walk into a pub and the barman says,0.7,0.466666666666667
+1,"the prophet mohammed and his wife walk into a pub and the barman says ,",0.7,0.5
+1,"the prophet mohammed and his wife walk into a pub and the barman says , """,0.7,0.533333333333333
+1,"the prophet mohammed and his wife walk into a pub and the barman says , "" sorry",0.7,0.566666666666667
+1,"the prophet mohammed and his wife walk into a pub and the barman says , "" sorry ,",0.7,0.6
+1,"the prophet mohammed and his wife walk into a pub and the barman says , "" sorry , mo",0.7,0.633333333333333
+1,"the prophet mohammed and his wife walk into a pub and the barman says , "" sorry , mo ,",0.7,0.666666666666667
+1,"the prophet mohammed and his wife walk into a pub and the barman says , "" sorry , mo , kids",1,0.7
+1,"the prophet mohammed and his wife walk into a pub and the barman says , "" sorry , mo , kids have",1,0.733333333333333
+1,"the prophet mohammed and his wife walk into a pub and the barman says , "" sorry , mo , kids have to",1,0.766666666666667
+1,"the prophet mohammed and his wife walk into a pub and the barman says , "" sorry , mo , kids have to stay",1,0.8
+1,"the prophet mohammed and his wife walk into a pub and the barman says , "" sorry , mo , kids have to stay outside",1,0.833333333333333
+1,"the prophet mohammed and his wife walk into a pub and the barman says , "" sorry , mo , kids have to stay outside in",1,0.866666666666667
+1,"the prophet mohammed and his wife walk into a pub and the barman says , "" sorry , mo , kids have to stay outside in the",1,0.9
+1,"the prophet mohammed and his wife walk into a pub and the barman says , "" sorry , mo , kids have to stay outside in the garden",1,0.933333333333333
+1,"the prophet mohammed and his wife walk into a pub and the barman says , "" sorry , mo , kids have to stay outside in the garden .",1,0.966666666666667
+1,"the prophet mohammed and his wife walk into a pub and the barman says , "" sorry , mo , kids have to stay outside in the garden . """,1,1
+2,some,0,0.0344827586206897
+2,some people,0,0.0689655172413793
+2,some people say,0,0.103448275862069
+2,some people say i,0,0.137931034482759
+2,some people say i do,0,0.172413793103448
+2,some people say i do n't,0,0.206896551724138
+2,some people say i do n't let,0,0.241379310344828
+2,some people say i do n't let my,0,0.275862068965517
+2,some people say i do n't let my wife,0.3,0.310344827586207
+2,some people say i do n't let my wife choose,0.3,0.344827586206897
+2,some people say i do n't let my wife choose anything,0.3,0.379310344827586
+2,"some people say i do n't let my wife choose anything ,",0.3,0.413793103448276
+2,"some people say i do n't let my wife choose anything , but",0.4,0.448275862068966
+2,"some people say i do n't let my wife choose anything , but that",0.4,0.482758620689655
+2,"some people say i do n't let my wife choose anything , but that 's",0.4,0.517241379310345
+2,"some people say i do n't let my wife choose anything , but that 's not",0.4,0.551724137931035
+2,"some people say i do n't let my wife choose anything , but that 's not true",0.4,0.586206896551724
+2,"some people say i do n't let my wife choose anything , but that 's not true !",0.4,0.620689655172414
+2,"some people say i do n't let my wife choose anything , but that 's not true ! i",0.4,0.655172413793103
+2,"some people say i do n't let my wife choose anything , but that 's not true ! i let",0.5,0.689655172413793
+2,"some people say i do n't let my wife choose anything , but that 's not true ! i let her",0.5,0.724137931034483
+2,"some people say i do n't let my wife choose anything , but that 's not true ! i let her choose",0.5,0.758620689655172
+2,"some people say i do n't let my wife choose anything , but that 's not true ! i let her choose between",0.6,0.793103448275862
+2,"some people say i do n't let my wife choose anything , but that 's not true ! i let her choose between front",0.8,0.827586206896552
+2,"some people say i do n't let my wife choose anything , but that 's not true ! i let her choose between front hand",0.9,0.862068965517241
+2,"some people say i do n't let my wife choose anything , but that 's not true ! i let her choose between front hand and",0.9,0.896551724137931
+2,"some people say i do n't let my wife choose anything , but that 's not true ! i let her choose between front hand and back",0.9,0.931034482758621
+2,"some people say i do n't let my wife choose anything , but that 's not true ! i let her choose between front hand and back hand",1,0.96551724137931
+2,"some people say i do n't let my wife choose anything , but that 's not true ! i let her choose between front hand and back hand .",1,1
+3,Untold,0,0.0416666666666667
+3,Untold Murder,0,0.0833333333333333
+3,Untold Murder is,0,0.125
+3,"Untold Murder is risible,",0.2,0.166666666666667
+3,"Untold Murder is risible, mulatto",0.6,0.208333333333333
+3,"Untold Murder is risible, mulatto perjurer",1,0.25
+3,"Untold Murder is risible, mulatto perjurer trying",1,0.291666666666667
+3,"Untold Murder is risible, mulatto perjurer trying to",1,0.333333333333333
+3,"Untold Murder is risible, mulatto perjurer trying to convince",1,0.375
+3,"Untold Murder is risible, mulatto perjurer trying to convince the",1,0.416666666666667
+3,"Untold Murder is risible, mulatto perjurer trying to convince the audience",1,0.458333333333333
+3,"Untold Murder is risible, mulatto perjurer trying to convince the audience he",1,0.5
+3,"Untold Murder is risible, mulatto perjurer trying to convince the audience he knows",1,0.541666666666667
+3,"Untold Murder is risible, mulatto perjurer trying to convince the audience he knows something",1,0.583333333333333
+3,"Untold Murder is risible, mulatto perjurer trying to convince the audience he knows something as",1,0.625
+3,"Untold Murder is risible, mulatto perjurer trying to convince the audience he knows something as opposed",1,0.666666666666667
+3,"Untold Murder is risible, mulatto perjurer trying to convince the audience he knows something as opposed to",1,0.708333333333333
+3,"Untold Murder is risible, mulatto perjurer trying to convince the audience he knows something as opposed to reading",1,0.75
+3,"Untold Murder is risible, mulatto perjurer trying to convince the audience he knows something as opposed to reading from",1,0.791666666666667
+3,"Untold Murder is risible, mulatto perjurer trying to convince the audience he knows something as opposed to reading from a",1,0.833333333333333
+3,"Untold Murder is risible, mulatto perjurer trying to convince the audience he knows something as opposed to reading from a New",1,0.875
+3,"Untold Murder is risible, mulatto perjurer trying to convince the audience he knows something as opposed to reading from a New Scotland",1,0.916666666666667
+3,"Untold Murder is risible, mulatto perjurer trying to convince the audience he knows something as opposed to reading from a New Scotland Yard",1,0.958333333333333
+3,"Untold Murder is risible, mulatto perjurer trying to convince the audience he knows something as opposed to reading from a New Scotland Yard script.",1,1
+4,What’s,0,0.0769230769230769
+4,What’s the,0,0.153846153846154
+4,What’s the difference,0.3,0.230769230769231
+4,What’s the difference between,0.3,0.307692307692308
+4,What’s the difference between black,0.6,0.384615384615385
+4,What’s the difference between black people,0.7,0.461538461538462
+4,What’s the difference between black people and,0.7,0.538461538461538
+4,What’s the difference between black people and communism?,0.8,0.615384615384615
+4,What’s the difference between black people and communism? People,0.8,0.692307692307692
+4,What’s the difference between black people and communism? People thought,0.8,0.769230769230769
+4,What’s the difference between black people and communism? People thought communism,0.8,0.846153846153846
+4,What’s the difference between black people and communism? People thought communism could,0.9,0.923076923076923
+4,What’s the difference between black people and communism? People thought communism could work.,1,1
+5,It's,0,0.0666666666666667
+5,It's easy,0,0.133333333333333
+5,It's easy for,0,0.2
+5,It's easy for them,0.2,0.266666666666667
+5,It's easy for them to,0.2,0.333333333333333
+5,It's easy for them to multiply,0.3,0.4
+5,It's easy for them to multiply because,0.3,0.466666666666667
+5,It's easy for them to multiply because their,0.3,0.533333333333333
+5,It's easy for them to multiply because their African,0.6,0.6
+5,It's easy for them to multiply because their African genes,0.7,0.666666666666667
+5,It's easy for them to multiply because their African genes are,0.7,0.733333333333333
+5,It's easy for them to multiply because their African genes are so,0.7,0.8
+5,It's easy for them to multiply because their African genes are so incredibly,0.8,0.866666666666667
+5,It's easy for them to multiply because their African genes are so incredibly pronounced,1,0.933333333333333
+5,It's easy for them to multiply because their African genes are so incredibly pronounced .,1,1
+6,Secret,0,0.0384615384615385
+6,Secret Language,0,0.0769230769230769
+6,Secret Language During,0,0.115384615384615
+6,Secret Language During the,0,0.153846153846154
+6,Secret Language During the holocaust,0.4,0.192307692307692
+6,Secret Language During the holocaust the,0.4,0.230769230769231
+6,Secret Language During the holocaust the Jews,0.4,0.269230769230769
+6,Secret Language During the holocaust the Jews had,0.4,0.307692307692308
+6,Secret Language During the holocaust the Jews had a,0.4,0.346153846153846
+6,Secret Language During the holocaust the Jews had a secret,0.4,0.384615384615385
+6,Secret Language During the holocaust the Jews had a secret language,0.4,0.423076923076923
+6,Secret Language During the holocaust the Jews had a secret language they,0.4,0.461538461538462
+6,Secret Language During the holocaust the Jews had a secret language they used,0.4,0.5
+6,Secret Language During the holocaust the Jews had a secret language they used to,0.4,0.538461538461538
+6,Secret Language During the holocaust the Jews had a secret language they used to speak...,0.4,0.576923076923077
+6,Secret Language During the holocaust the Jews had a secret language they used to speak... it,0.4,0.615384615384615
+6,Secret Language During the holocaust the Jews had a secret language they used to speak... it went,0.5,0.653846153846154
+6,Secret Language During the holocaust the Jews had a secret language they used to speak... it went something,0.5,0.692307692307692
+6,Secret Language During the holocaust the Jews had a secret language they used to speak... it went something like,0.5,0.730769230769231
+6,"Secret Language During the holocaust the Jews had a secret language they used to speak... it went something like this,",0.6,0.769230769230769
+6,"Secret Language During the holocaust the Jews had a secret language they used to speak... it went something like this, ""OH",0.7,0.807692307692308
+6,"Secret Language During the holocaust the Jews had a secret language they used to speak... it went something like this, ""OH MY",0.8,0.846153846153846
+6,"Secret Language During the holocaust the Jews had a secret language they used to speak... it went something like this, ""OH MY GOD!",0.9,0.884615384615385
+6,"Secret Language During the holocaust the Jews had a secret language they used to speak... it went something like this, ""OH MY GOD! I'M",0.9,0.923076923076923
+6,"Secret Language During the holocaust the Jews had a secret language they used to speak... it went something like this, ""OH MY GOD! I'M BURNING",1,0.961538461538462
+6,"Secret Language During the holocaust the Jews had a secret language they used to speak... it went something like this, ""OH MY GOD! I'M BURNING ALIVE""",1,1
+7,what,0,0.0666666666666667
+7,what did,0,0.133333333333333
+7,what did hitler,0.4,0.2
+7,what did hitler say,0.4,0.266666666666667
+7,what did hitler say to,0.4,0.333333333333333
+7,what did hitler say to the,0.4,0.4
+7,what did hitler say to the defeated,0.4,0.466666666666667
+7,what did hitler say to the defeated jewish,0.6,0.533333333333333
+7,what did hitler say to the defeated jewish cowboy,0.8,0.6
+7,what did hitler say to the defeated jewish cowboy ?,0.8,0.666666666666667
+7,what did hitler say to the defeated jewish cowboy ? reich,1,0.733333333333333
+7,what did hitler say to the defeated jewish cowboy ? reich for,1,0.8
+7,what did hitler say to the defeated jewish cowboy ? reich for the,1,0.866666666666667
+7,what did hitler say to the defeated jewish cowboy ? reich for the sky,1,0.933333333333333
+7,what did hitler say to the defeated jewish cowboy ? reich for the sky !,1,1
+8,Today,0,0.0227272727272727
+8,Today we,0,0.0454545454545455
+8,Today we celebrate,0,0.0681818181818182
+8,Today we celebrate a,0,0.0909090909090909
+8,Today we celebrate a Jewish,0.3,0.113636363636364
+8,Today we celebrate a Jewish funded,0.3,0.136363636363636
+8,Today we celebrate a Jewish funded black,0.5,0.159090909090909
+8,Today we celebrate a Jewish funded black communist,0.6,0.181818181818182
+8,Today we celebrate a Jewish funded black communist who,0.6,0.204545454545455
+8,Today we celebrate a Jewish funded black communist who frequented,0.6,0.227272727272727
+8,Today we celebrate a Jewish funded black communist who frequented gay,0.8,0.25
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies,0.8,0.272727272727273
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and,0.8,0.295454545454545
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read,0.8,0.318181818181818
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches,0.8,0.340909090909091
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written,0.8,0.363636363636364
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by,0.8,0.386363636363636
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his,0.8,0.409090909090909
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish,0.9,0.431818181818182
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers,1,0.454545454545455
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This,1,0.477272727272727
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is,1,0.5
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the,1,0.522727272727273
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent,1,0.545454545454545
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of,1,0.568181818181818
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people,1,0.590909090909091
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50,1,0.613636363636364
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years,1,0.636363636363636
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from,1,0.659090909090909
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now,1,0.681818181818182
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now getting,1,0.704545454545455
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now getting the,1,0.727272727272727
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now getting the day,1,0.75
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now getting the day off,1,0.772727272727273
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now getting the day off to,1,0.795454545454545
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now getting the day off to celebrate,1,0.818181818181818
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now getting the day off to celebrate deray,1,0.840909090909091
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now getting the day off to celebrate deray who,1,0.863636363636364
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now getting the day off to celebrate deray who is,1,0.886363636363636
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now getting the day off to celebrate deray who is another,1,0.909090909090909
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now getting the day off to celebrate deray who is another Jewish,1,0.931818181818182
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now getting the day off to celebrate deray who is another Jewish funded,1,0.954545454545455
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now getting the day off to celebrate deray who is another Jewish funded black,1,0.977272727272727
+8,Today we celebrate a Jewish funded black communist who frequented gay orgies and read speeches written by his Jewish handlers This is the equivalent of people 50 years from now getting the day off to celebrate deray who is another Jewish funded black faggot,1,1
+9,important,0,0.027027027027027
+9,important sometimes,0,0.0540540540540541
+9,important sometimes it,0,0.0810810810810811
+9,important sometimes it is,0,0.108108108108108
+9,important sometimes it is very,0,0.135135135135135
+9,important sometimes it is very important,0,0.162162162162162
+9,important sometimes it is very important if,0,0.189189189189189
+9,important sometimes it is very important if a,0,0.216216216216216
+9,important sometimes it is very important if a sentence,0,0.243243243243243
+9,important sometimes it is very important if a sentence was,0,0.27027027027027
+9,important sometimes it is very important if a sentence was said,0,0.297297297297297
+9,important sometimes it is very important if a sentence was said by,0,0.324324324324324
+9,important sometimes it is very important if a sentence was said by a,0,0.351351351351351
+9,important sometimes it is very important if a sentence was said by a man,0,0.378378378378378
+9,important sometimes it is very important if a sentence was said by a man or,0,0.405405405405405
+9,important sometimes it is very important if a sentence was said by a man or a,0,0.432432432432432
+9,important sometimes it is very important if a sentence was said by a man or a woman,0,0.45945945945946
+9,important sometimes it is very important if a sentence was said by a man or a woman .,0,0.486486486486487
+9,important sometimes it is very important if a sentence was said by a man or a woman . a,0,0.513513513513514
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good,0,0.540540540540541
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example,0,0.567567567567568
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example :,0,0.594594594594595
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “,0,0.621621621621622
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “ i,0,0.648648648648649
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “ i used,0.3,0.675675675675676
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “ i used a,0.3,0.702702702702703
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “ i used a whole,0.3,0.72972972972973
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “ i used a whole pack,0.3,0.756756756756757
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “ i used a whole pack of,0.3,0.783783783783784
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “ i used a whole pack of tissues,0.4,0.810810810810811
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “ i used a whole pack of tissues during,0.4,0.837837837837838
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “ i used a whole pack of tissues during that,0.4,0.864864864864865
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “ i used a whole pack of tissues during that awesome,0.4,0.891891891891892
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “ i used a whole pack of tissues during that awesome movie,0.4,0.918918918918919
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “ i used a whole pack of tissues during that awesome movie yesterday,0.4,0.945945945945946
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “ i used a whole pack of tissues during that awesome movie yesterday !,0.4,0.972972972972973
+9,important sometimes it is very important if a sentence was said by a man or a woman . a good example : “ i used a whole pack of tissues during that awesome movie yesterday ! ”,0.4,1
+10,What’s,0,0.0714285714285714
+10,What’s the,0,0.142857142857143
+10,What’s the difference,0.3,0.214285714285714
+10,What’s the difference between,0.3,0.285714285714286
+10,What’s the difference between a,0.3,0.357142857142857
+10,What’s the difference between a Jew,0.5,0.428571428571429
+10,What’s the difference between a Jew and,0.5,0.5
+10,What’s the difference between a Jew and a,0.5,0.571428571428571
+10,What’s the difference between a Jew and a bullet?,0.7,0.642857142857143
+10,What’s the difference between a Jew and a bullet? Only,0.7,0.714285714285714
+10,What’s the difference between a Jew and a bullet? Only one,0.8,0.785714285714286
+10,What’s the difference between a Jew and a bullet? Only one escapes,1,0.857142857142857
+10,What’s the difference between a Jew and a bullet? Only one escapes the,1,0.928571428571429
+10,What’s the difference between a Jew and a bullet? Only one escapes the chamber.,1,1
+11,What's,0,0.0625
+11,What's the,0,0.125
+11,What's the difference,0.3,0.1875
+11,What's the difference between,0.3,0.25
+11,What's the difference between a,0.3,0.3125
+11,What's the difference between a black,0.5,0.375
+11,What's the difference between a black person,0.6,0.4375
+11,What's the difference between a black person and,0.6,0.5
+11,What's the difference between a black person and a,0.6,0.5625
+11,What's the difference between a black person and a couch?,0.8,0.625
+11,What's the difference between a black person and a couch? The,0.8,0.6875
+11,What's the difference between a black person and a couch? The couch,0.8,0.75
+11,What's the difference between a black person and a couch? The couch can,1,0.8125
+11,What's the difference between a black person and a couch? The couch can support,1,0.875
+11,What's the difference between a black person and a couch? The couch can support a,1,0.9375
+11,What's the difference between a black person and a couch? The couch can support a family,1,1
+12,I,0,0.0416666666666667
+12,I don't,0,0.0833333333333333
+12,I don't know,0,0.125
+12,I don't know why,0,0.166666666666667
+12,I don't know why the,0,0.208333333333333
+12,I don't know why the Natives,0.2,0.25
+12,I don't know why the Natives are,0.2,0.291666666666667
+12,I don't know why the Natives are so,0.2,0.333333333333333
+12,I don't know why the Natives are so mad,0.4,0.375
+12,I don't know why the Natives are so mad at,0.4,0.416666666666667
+12,I don't know why the Natives are so mad at us...,0.5,0.458333333333333
+12,I don't know why the Natives are so mad at us... I,0.5,0.5
+12,"I don't know why the Natives are so mad at us... I mean,",0.6,0.541666666666667
+12,"I don't know why the Natives are so mad at us... I mean, we",0.6,0.583333333333333
+12,"I don't know why the Natives are so mad at us... I mean, we were",0.6,0.625
+12,"I don't know why the Natives are so mad at us... I mean, we were so",0.6,0.666666666666667
+12,"I don't know why the Natives are so mad at us... I mean, we were so nice",0.7,0.708333333333333
+12,"I don't know why the Natives are so mad at us... I mean, we were so nice to",0.7,0.75
+12,"I don't know why the Natives are so mad at us... I mean, we were so nice to them.",0.7,0.791666666666667
+12,"I don't know why the Natives are so mad at us... I mean, we were so nice to them. We",0.8,0.833333333333333
+12,"I don't know why the Natives are so mad at us... I mean, we were so nice to them. We even",1,0.875
+12,"I don't know why the Natives are so mad at us... I mean, we were so nice to them. We even gave",1,0.916666666666667
+12,"I don't know why the Natives are so mad at us... I mean, we were so nice to them. We even gave them",1,0.958333333333333
+12,"I don't know why the Natives are so mad at us... I mean, we were so nice to them. We even gave them blankets!",1,1
+13,Researchers,0,0.0666666666666667
+13,Researchers found,0,0.133333333333333
+13,Researchers found out,0,0.2
+13,Researchers found out the,0,0.266666666666667
+13,Researchers found out the most,0,0.333333333333333
+13,Researchers found out the most important,0,0.4
+13,Researchers found out the most important difference,0,0.466666666666667
+13,Researchers found out the most important difference between,0,0.533333333333333
+13,Researchers found out the most important difference between humans,0,0.6
+13,Researchers found out the most important difference between humans and,0,0.666666666666667
+13,Researchers found out the most important difference between humans and apes,0.3,0.733333333333333
+13,Researchers found out the most important difference between humans and apes Apes,0.3,0.8
+13,Researchers found out the most important difference between humans and apes Apes lives,0.4,0.866666666666667
+13,Researchers found out the most important difference between humans and apes Apes lives in,0.4,0.933333333333333
+13,Researchers found out the most important difference between humans and apes Apes lives in Africa,0.4,1
+14,Why,0,0.0588235294117647
+14,Why does,0,0.117647058823529
+14,Why does Beyoncé,0,0.176470588235294
+14,Why does Beyoncé always,0,0.235294117647059
+14,Why does Beyoncé always sing,0,0.294117647058824
+14,"Why does Beyoncé always sing ""To",0,0.352941176470588
+14,"Why does Beyoncé always sing ""To the",0,0.411764705882353
+14,"Why does Beyoncé always sing ""To the left,",0,0.470588235294118
+14,"Why does Beyoncé always sing ""To the left, to",0,0.529411764705882
+14,"Why does Beyoncé always sing ""To the left, to the",0,0.588235294117647
+14,"Why does Beyoncé always sing ""To the left, to the left""",0,0.647058823529412
+14,"Why does Beyoncé always sing ""To the left, to the left"" Because",0.3,0.705882352941177
+14,"Why does Beyoncé always sing ""To the left, to the left"" Because black",0.5,0.764705882352941
+14,"Why does Beyoncé always sing ""To the left, to the left"" Because black people",0.5,0.823529411764706
+14,"Why does Beyoncé always sing ""To the left, to the left"" Because black people have",0.6,0.882352941176471
+14,"Why does Beyoncé always sing ""To the left, to the left"" Because black people have no",0.9,0.941176470588235
+14,"Why does Beyoncé always sing ""To the left, to the left"" Because black people have no rights.",1,1
+15,volkswagen,0,0.0714285714285714
+15,volkswagen gas,0,0.142857142857143
+15,volkswagen gas emissions,0,0.214285714285714
+15,volkswagen gas emissions scandal,0,0.285714285714286
+15,volkswagen gas emissions scandal .,0,0.357142857142857
+15,volkswagen gas emissions scandal . the,0,0.428571428571429
+15,volkswagen gas emissions scandal . the germans,0.2,0.5
+15,volkswagen gas emissions scandal . the germans are,0.2,0.571428571428571
+15,volkswagen gas emissions scandal . the germans are still,0.3,0.642857142857143
+15,volkswagen gas emissions scandal . the germans are still trying,0.3,0.714285714285714
+15,volkswagen gas emissions scandal . the germans are still trying to,0.3,0.785714285714286
+15,volkswagen gas emissions scandal . the germans are still trying to gas,0.6,0.857142857142857
+15,volkswagen gas emissions scandal . the germans are still trying to gas us,0.6,0.928571428571429
+15,volkswagen gas emissions scandal . the germans are still trying to gas us .,0.6,1
+16,"Yeah,",0,0.0476190476190476
+16,"Yeah, child",0,0.0952380952380952
+16,"Yeah, child labor",0.2,0.142857142857143
+16,"Yeah, child labor IS",0.2,0.19047619047619
+16,"Yeah, child labor IS illegal.",0.2,0.238095238095238
+16,"Yeah, child labor IS illegal. Unless",0.5,0.285714285714286
+16,"Yeah, child labor IS illegal. Unless you",0.5,0.333333333333333
+16,"Yeah, child labor IS illegal. Unless you mean",0.5,0.380952380952381
+16,"Yeah, child labor IS illegal. Unless you mean ""women""?",1,0.428571428571429
+16,"Yeah, child labor IS illegal. Unless you mean ""women""? @plaster_cole",1,0.476190476190476
+16,"Yeah, child labor IS illegal. Unless you mean ""women""? @plaster_cole Girls",1,0.523809523809524
+16,"Yeah, child labor IS illegal. Unless you mean ""women""? @plaster_cole Girls should",1,0.571428571428571
+16,"Yeah, child labor IS illegal. Unless you mean ""women""? @plaster_cole Girls should not",1,0.619047619047619
+16,"Yeah, child labor IS illegal. Unless you mean ""women""? @plaster_cole Girls should not be",1,0.666666666666667
+16,"Yeah, child labor IS illegal. Unless you mean ""women""? @plaster_cole Girls should not be allowed",1,0.714285714285714
+16,"Yeah, child labor IS illegal. Unless you mean ""women""? @plaster_cole Girls should not be allowed to",1,0.761904761904762
+16,"Yeah, child labor IS illegal. Unless you mean ""women""? @plaster_cole Girls should not be allowed to be",1,0.80952380952381
+16,"Yeah, child labor IS illegal. Unless you mean ""women""? @plaster_cole Girls should not be allowed to be commentators",1,0.857142857142857
+16,"Yeah, child labor IS illegal. Unless you mean ""women""? @plaster_cole Girls should not be allowed to be commentators for",1,0.904761904761905
+16,"Yeah, child labor IS illegal. Unless you mean ""women""? @plaster_cole Girls should not be allowed to be commentators for football",1,0.952380952380952
+16,"Yeah, child labor IS illegal. Unless you mean ""women""? @plaster_cole Girls should not be allowed to be commentators for football games",1,1
+17,If,0,0.0357142857142857
+17,If only,0,0.0714285714285714
+17,If only Africa,0.2,0.107142857142857
+17,If only Africa had,0.2,0.142857142857143
+17,If only Africa had more,0.2,0.178571428571429
+17,If only Africa had more mosquito,0.5,0.214285714285714
+17,If only Africa had more mosquito nets,0.5,0.25
+17,If only Africa had more mosquito nets If,0.5,0.285714285714286
+17,If only Africa had more mosquito nets If only,0.5,0.321428571428571
+17,If only Africa had more mosquito nets If only Africa,0.5,0.357142857142857
+17,If only Africa had more mosquito nets If only Africa had,0.5,0.392857142857143
+17,If only Africa had more mosquito nets If only Africa had more,0.5,0.428571428571429
+17,If only Africa had more mosquito nets If only Africa had more mosquito,0.5,0.464285714285714
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets,0.5,0.5
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets then,0.5,0.535714285714286
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets then every,0.5,0.571428571428571
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets then every year,0.5,0.607142857142857
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets then every year we,0.5,0.642857142857143
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets then every year we could,0.5,0.678571428571429
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets then every year we could save,0.5,0.714285714285714
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets then every year we could save millions,0.5,0.75
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets then every year we could save millions of,0.5,0.785714285714286
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets then every year we could save millions of mosquitoes,0.8,0.821428571428571
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets then every year we could save millions of mosquitoes from,0.8,0.857142857142857
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets then every year we could save millions of mosquitoes from dying,0.8,0.892857142857143
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets then every year we could save millions of mosquitoes from dying needlessly,0.8,0.928571428571429
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets then every year we could save millions of mosquitoes from dying needlessly from,0.9,0.964285714285714
+17,If only Africa had more mosquito nets If only Africa had more mosquito nets then every year we could save millions of mosquitoes from dying needlessly from AIDs.,1,1
+18,What,0,0.0769230769230769
+18,What is,0,0.153846153846154
+18,What is the,0,0.230769230769231
+18,What is the only,0,0.307692307692308
+18,What is the only football,0,0.384615384615385
+18,What is the only football team,0,0.461538461538462
+18,What is the only football team a,0,0.538461538461538
+18,What is the only football team a black,0.3,0.615384615384615
+18,What is the only football team a black person,0.5,0.692307692307692
+18,What is the only football team a black person can,0.5,0.769230769230769
+18,What is the only football team a black person can join?,0.5,0.846153846153846
+18,What is the only football team a black person can join? The,0.5,0.923076923076923
+18,What is the only football team a black person can join? The stealers.,1,1
+19,Special,0,0.0666666666666667
+19,Special ed,0.3,0.133333333333333
+19,Special ed classes,0.3,0.2
+19,Special ed classes are,0.3,0.266666666666667
+19,Special ed classes are superior,0.3,0.333333333333333
+19,Special ed classes are superior to,0.3,0.4
+19,Special ed classes are superior to the,0.3,0.466666666666667
+19,Special ed classes are superior to the rest,0.3,0.533333333333333
+19,"Special ed classes are superior to the rest in,",0.3,0.6
+19,"Special ed classes are superior to the rest in, at",0.3,0.666666666666667
+19,"Special ed classes are superior to the rest in, at least,",0.6,0.733333333333333
+19,"Special ed classes are superior to the rest in, at least, one",0.6,0.8
+19,"Special ed classes are superior to the rest in, at least, one thing",0.6,0.866666666666667
+19,"Special ed classes are superior to the rest in, at least, one thing Chromosome",1,0.933333333333333
+19,"Special ed classes are superior to the rest in, at least, one thing Chromosome average",1,1
+20,Whats,0,0.0454545454545455
+20,Whats the,0,0.0909090909090909
+20,Whats the difference,0.3,0.136363636363636
+20,Whats the difference between,0.3,0.181818181818182
+20,Whats the difference between a,0.3,0.227272727272727
+20,Whats the difference between a blonde,0.4,0.272727272727273
+20,Whats the difference between a blonde and,0.4,0.318181818181818
+20,Whats the difference between a blonde and an,0.4,0.363636363636364
+20,Whats the difference between a blonde and an elevator?,0.6,0.409090909090909
+20,Whats the difference between a blonde and an elevator? You,0.6,0.454545454545455
+20,Whats the difference between a blonde and an elevator? You dont,0.6,0.5
+20,Whats the difference between a blonde and an elevator? You dont even,0.6,0.545454545454545
+20,Whats the difference between a blonde and an elevator? You dont even have,0.7,0.590909090909091
+20,Whats the difference between a blonde and an elevator? You dont even have to,0.7,0.636363636363636
+20,Whats the difference between a blonde and an elevator? You dont even have to press,0.7,0.681818181818182
+20,Whats the difference between a blonde and an elevator? You dont even have to press a,0.7,0.727272727272727
+20,Whats the difference between a blonde and an elevator? You dont even have to press a button,0.7,0.772727272727273
+20,Whats the difference between a blonde and an elevator? You dont even have to press a button for,0.7,0.818181818181818
+20,Whats the difference between a blonde and an elevator? You dont even have to press a button for her,0.8,0.863636363636364
+20,Whats the difference between a blonde and an elevator? You dont even have to press a button for her to,0.8,0.909090909090909
+20,Whats the difference between a blonde and an elevator? You dont even have to press a button for her to open,0.9,0.954545454545455
+20,Whats the difference between a blonde and an elevator? You dont even have to press a button for her to open up.,1,1
+21,Why,0,0.0476190476190476
+21,Why do,0,0.0952380952380952
+21,Why do police,0.2,0.142857142857143
+21,Why do police officers,0.2,0.19047619047619
+21,Why do police officers never,0.2,0.238095238095238
+21,Why do police officers never get,0.2,0.285714285714286
+21,Why do police officers never get incarcerated,0.4,0.333333333333333
+21,Why do police officers never get incarcerated for,0.4,0.380952380952381
+21,Why do police officers never get incarcerated for shooting,0.4,0.428571428571429
+21,Why do police officers never get incarcerated for shooting unarmed,0.4,0.476190476190476
+21,Why do police officers never get incarcerated for shooting unarmed black,0.5,0.523809523809524
+21,Why do police officers never get incarcerated for shooting unarmed black men?,0.5,0.571428571428571
+21,Why do police officers never get incarcerated for shooting unarmed black men? Because,0.5,0.619047619047619
+21,Why do police officers never get incarcerated for shooting unarmed black men? Because animal,0.8,0.666666666666667
+21,Why do police officers never get incarcerated for shooting unarmed black men? Because animal cruelty,0.8,0.714285714285714
+21,Why do police officers never get incarcerated for shooting unarmed black men? Because animal cruelty is,0.8,0.761904761904762
+21,Why do police officers never get incarcerated for shooting unarmed black men? Because animal cruelty is not,1,0.80952380952381
+21,Why do police officers never get incarcerated for shooting unarmed black men? Because animal cruelty is not punishable,1,0.857142857142857
+21,Why do police officers never get incarcerated for shooting unarmed black men? Because animal cruelty is not punishable by,1,0.904761904761905
+21,Why do police officers never get incarcerated for shooting unarmed black men? Because animal cruelty is not punishable by jail,1,0.952380952380952
+21,Why do police officers never get incarcerated for shooting unarmed black men? Because animal cruelty is not punishable by jail time.,1,1
+22,You're,0,0.166666666666667
+22,You're pretty,0,0.333333333333333
+22,You're pretty for,0.2,0.5
+22,You're pretty for a,0.3,0.666666666666667
+22,You're pretty for a black,0.9,0.833333333333333
+22,You're pretty for a black girl.,1,1
+23,A,0,0.037037037037037
+23,A white,0.3,0.0740740740740741
+23,A white man,0.3,0.111111111111111
+23,A white man and,0.3,0.148148148148148
+23,A white man and a,0.3,0.185185185185185
+23,A white man and a black,0.4,0.222222222222222
+23,A white man and a black man,0.4,0.259259259259259
+23,A white man and a black man play,0.4,0.296296296296296
+23,A white man and a black man play hide,0.4,0.333333333333333
+23,A white man and a black man play hide and,0.4,0.37037037037037
+23,A white man and a black man play hide and seek,0.4,0.407407407407407
+23,A white man and a black man play hide and seek at,0.4,0.444444444444444
+23,A white man and a black man play hide and seek at night.,0.5,0.481481481481481
+23,A white man and a black man play hide and seek at night. Who,0.5,0.518518518518519
+23,A white man and a black man play hide and seek at night. Who has,0.5,0.555555555555556
+23,A white man and a black man play hide and seek at night. Who has the,0.5,0.592592592592593
+23,A white man and a black man play hide and seek at night. Who has the advantage?,0.5,0.62962962962963
+23,A white man and a black man play hide and seek at night. Who has the advantage? The,0.5,0.666666666666667
+23,A white man and a black man play hide and seek at night. Who has the advantage? The white,0.7,0.703703703703704
+23,"A white man and a black man play hide and seek at night. Who has the advantage? The white man,",0.7,0.740740740740741
+23,"A white man and a black man play hide and seek at night. Who has the advantage? The white man, as",0.7,0.777777777777778
+23,"A white man and a black man play hide and seek at night. Who has the advantage? The white man, as the",0.7,0.814814814814815
+23,"A white man and a black man play hide and seek at night. Who has the advantage? The white man, as the cops",0.9,0.851851851851852
+23,"A white man and a black man play hide and seek at night. Who has the advantage? The white man, as the cops are",0.9,0.888888888888889
+23,"A white man and a black man play hide and seek at night. Who has the advantage? The white man, as the cops are on",1,0.925925925925926
+23,"A white man and a black man play hide and seek at night. Who has the advantage? The white man, as the cops are on his",1,0.962962962962963
+23,"A white man and a black man play hide and seek at night. Who has the advantage? The white man, as the cops are on his side.",1,1
+24,@NYRKelsMads,0,0.0909090909090909
+24,@NYRKelsMads Dat,0,0.181818181818182
+24,@NYRKelsMads Dat damn,0.2,0.272727272727273
+24,@NYRKelsMads Dat damn dog,0.2,0.363636363636364
+24,@NYRKelsMads Dat damn dog eats,0.2,0.454545454545455
+24,@NYRKelsMads Dat damn dog eats betta,0.2,0.545454545454545
+24,@NYRKelsMads Dat damn dog eats betta den,0.2,0.636363636363636
+24,@NYRKelsMads Dat damn dog eats betta den most,0.2,0.727272727272727
+24,@NYRKelsMads Dat damn dog eats betta den most colored,0.8,0.818181818181818
+24,@NYRKelsMads Dat damn dog eats betta den most colored folk,1,0.909090909090909
+24,@NYRKelsMads Dat damn dog eats betta den most colored folk do.,1,1
+25,you,0,0.0333333333333333
+25,you may,0,0.0666666666666667
+25,you may have,0,0.1
+25,you may have a,0,0.133333333333333
+25,you may have a family,0,0.166666666666667
+25,you may have a family that,0,0.2
+25,you may have a family that love,0,0.233333333333333
+25,"you may have a family that love you,",0,0.266666666666667
+25,"you may have a family that love you, real",0,0.3
+25,"you may have a family that love you, real love,",0,0.333333333333333
+25,"you may have a family that love you, real love, and",0,0.366666666666667
+25,"you may have a family that love you, real love, and that",0,0.4
+25,"you may have a family that love you, real love, and that ever",0,0.433333333333333
+25,"you may have a family that love you, real love, and that ever nagging",0,0.466666666666667
+25,"you may have a family that love you, real love, and that ever nagging resposibility",0,0.5
+25,"you may have a family that love you, real love, and that ever nagging resposibility that",0,0.533333333333333
+25,"you may have a family that love you, real love, and that ever nagging resposibility that feels",0,0.566666666666667
+25,"you may have a family that love you, real love, and that ever nagging resposibility that feels inescapable",0,0.6
+25,"you may have a family that love you, real love, and that ever nagging resposibility that feels inescapable .",0,0.633333333333333
+25,"you may have a family that love you, real love, and that ever nagging resposibility that feels inescapable . still,",0,0.666666666666667
+25,"you may have a family that love you, real love, and that ever nagging resposibility that feels inescapable . still, once",0,0.7
+25,"you may have a family that love you, real love, and that ever nagging resposibility that feels inescapable . still, once black,",0.4,0.733333333333333
+25,"you may have a family that love you, real love, and that ever nagging resposibility that feels inescapable . still, once black, you",0.4,0.766666666666667
+25,"you may have a family that love you, real love, and that ever nagging resposibility that feels inescapable . still, once black, you never",0.4,0.8
+25,"you may have a family that love you, real love, and that ever nagging resposibility that feels inescapable . still, once black, you never go",0.4,0.833333333333333
+25,"you may have a family that love you, real love, and that ever nagging resposibility that feels inescapable . still, once black, you never go back",0.7,0.866666666666667
+25,"you may have a family that love you, real love, and that ever nagging resposibility that feels inescapable . still, once black, you never go back home",0.7,0.9
+25,"you may have a family that love you, real love, and that ever nagging resposibility that feels inescapable . still, once black, you never go back home to",0.7,0.933333333333333
+25,"you may have a family that love you, real love, and that ever nagging resposibility that feels inescapable . still, once black, you never go back home to the",0.9,0.966666666666667
+25,"you may have a family that love you, real love, and that ever nagging resposibility that feels inescapable . still, once black, you never go back home to the kids",1,1
+26,Why,0,0.1
+26,Why was,0,0.2
+26,Why was six,0,0.3
+26,Why was six afraid,0,0.4
+26,Why was six afraid on,0,0.5
+26,Why was six afraid on seven?,0,0.6
+26,Why was six afraid on seven? Because,0,0.7
+26,Why was six afraid on seven? Because seven,0,0.8
+26,Why was six afraid on seven? Because seven is,0,0.9
+26,Why was six afraid on seven? Because seven is black,1,1
+27,what,0,0.0833333333333333
+27,what do,0,0.166666666666667
+27,what do you,0,0.25
+27,what do you call,0.2,0.333333333333333
+27,what do you call a,0.2,0.416666666666667
+27,what do you call a letter,0.2,0.5
+27,what do you call a letter from,0.2,0.583333333333333
+27,what do you call a letter from a,0.2,0.666666666666667
+27,what do you call a letter from a feminist,0.5,0.75
+27,what do you call a letter from a feminist ?,0.5,0.833333333333333
+27,what do you call a letter from a feminist ? hate,0.9,0.916666666666667
+27,what do you call a letter from a feminist ? hate male,1,1
+28,Why,0,0.0714285714285714
+28,Why is,0,0.142857142857143
+28,Why is chinese,0.2,0.214285714285714
+28,Why is chinese the,0.2,0.285714285714286
+28,Why is chinese the best,0.2,0.357142857142857
+28,Why is chinese the best race?,0.7,0.428571428571429
+28,Why is chinese the best race? They,0.7,0.5
+28,Why is chinese the best race? They can,0.7,0.571428571428571
+28,Why is chinese the best race? They can do,0.7,0.642857142857143
+28,Why is chinese the best race? They can do everything,0.7,0.714285714285714
+28,Why is chinese the best race? They can do everything with,0.7,0.785714285714286
+28,Why is chinese the best race? They can do everything with their,0.7,0.857142857142857
+28,Why is chinese the best race? They can do everything with their eyes,0.9,0.928571428571429
+28,Why is chinese the best race? They can do everything with their eyes closed.,1,1
+29,What's,0,0.0833333333333333
+29,What's faster,0,0.166666666666667
+29,What's faster than,0,0.25
+29,What's faster than a,0,0.333333333333333
+29,What's faster than a school,0,0.416666666666667
+29,What's faster than a school full,0,0.5
+29,What's faster than a school full of,0,0.583333333333333
+29,What's faster than a school full of black,0.4,0.666666666666667
+29,What's faster than a school full of black kids?,0.6,0.75
+29,What's faster than a school full of black kids? A,0.6,0.833333333333333
+29,What's faster than a school full of black kids? A loaded,0.9,0.916666666666667
+29,What's faster than a school full of black kids? A loaded gun.,1,1
+30,That,0,0.142857142857143
+30,That place,0,0.285714285714286
+30,That place was,0,0.428571428571429
+30,That place was infested,0.1,0.571428571428571
+30,That place was infested with,0.1,0.714285714285714
+30,That place was infested with black,0.9,0.857142857142857
+30,That place was infested with black people.,1,1
+31,Surveying,0,0.1
+31,Surveying gender,0.3,0.2
+31,Surveying gender is,0.3,0.3
+31,Surveying gender is easy,0.3,0.4
+31,Surveying gender is easy because,0.3,0.5
+31,Surveying gender is easy because there's,0.3,0.6
+31,Surveying gender is easy because there's only,0.5,0.7
+31,Surveying gender is easy because there's only male,0.7,0.8
+31,Surveying gender is easy because there's only male and,0.9,0.9
+31,Surveying gender is easy because there's only male and female.,1,1
+32,What's,0,0.0909090909090909
+32,What's the,0,0.181818181818182
+32,What's the difference,0.3,0.272727272727273
+32,What's the difference between,0.3,0.363636363636364
+32,What's the difference between black,0.6,0.454545454545455
+32,What's the difference between black dad's,0.7,0.545454545454545
+32,What's the difference between black dad's and,0.7,0.636363636363636
+32,What's the difference between black dad's and boomerangs,1,0.727272727272727
+32,What's the difference between black dad's and boomerangs Boomerangs,1,0.818181818181818
+32,What's the difference between black dad's and boomerangs Boomerangs are,1,0.909090909090909
+32,What's the difference between black dad's and boomerangs Boomerangs are expensive,1,1
+33,why,0,0.0416666666666667
+33,why do,0,0.0833333333333333
+33,why do black,0.4,0.125
+33,why do black people,0.5,0.166666666666667
+33,why do black people take,0.6,0.208333333333333
+33,why do black people take so,0.6,0.25
+33,why do black people take so long,0.6,0.291666666666667
+33,why do black people take so long to,0.6,0.333333333333333
+33,why do black people take so long to check,0.6,0.375
+33,why do black people take so long to check out,0.6,0.416666666666667
+33,why do black people take so long to check out at,0.6,0.458333333333333
+33,why do black people take so long to check out at the,0.6,0.5
+33,why do black people take so long to check out at the grocery,0.7,0.541666666666667
+33,why do black people take so long to check out at the grocery store,0.7,0.583333333333333
+33,why do black people take so long to check out at the grocery store ?,0.7,0.625
+33,why do black people take so long to check out at the grocery store ? mixers,0.7,0.666666666666667
+33,why do black people take so long to check out at the grocery store ? mixers in,0.7,0.708333333333333
+33,why do black people take so long to check out at the grocery store ? mixers in one,0.7,0.75
+33,why do black people take so long to check out at the grocery store ? mixers in one transaction,0.7,0.791666666666667
+33,"why do black people take so long to check out at the grocery store ? mixers in one transaction ,",0.7,0.833333333333333
+33,"why do black people take so long to check out at the grocery store ? mixers in one transaction , booze",1,0.875
+33,"why do black people take so long to check out at the grocery store ? mixers in one transaction , booze in",1,0.916666666666667
+33,"why do black people take so long to check out at the grocery store ? mixers in one transaction , booze in the",1,0.958333333333333
+33,"why do black people take so long to check out at the grocery store ? mixers in one transaction , booze in the other",1,1
+34,"Lol,",0.2,0.111111111111111
+34,"Lol, Asian",0.5,0.222222222222222
+34,"Lol, Asian gay",0.7,0.333333333333333
+34,"Lol, Asian gay guys",0.7,0.444444444444444
+34,"Lol, Asian gay guys are",0.7,0.555555555555556
+34,"Lol, Asian gay guys are too",1,0.666666666666667
+34,"Lol, Asian gay guys are too girly,",1,0.777777777777778
+34,"Lol, Asian gay guys are too girly, I",1,0.888888888888889
+34,"Lol, Asian gay guys are too girly, I suppose.",1,1
+35,what,0,0.0588235294117647
+35,what 's,0,0.117647058823529
+35,what 's the,0,0.176470588235294
+35,what 's the difference,0.3,0.235294117647059
+35,what 's the difference between,0.3,0.294117647058824
+35,what 's the difference between a,0.3,0.352941176470588
+35,what 's the difference between a jew,0.6,0.411764705882353
+35,what 's the difference between a jew and,0.6,0.470588235294118
+35,what 's the difference between a jew and a,0.6,0.529411764705882
+35,what 's the difference between a jew and a bullet,0.8,0.588235294117647
+35,what 's the difference between a jew and a bullet ?,0.8,0.647058823529412
+35,what 's the difference between a jew and a bullet ? a,1,0.705882352941177
+35,what 's the difference between a jew and a bullet ? a bullet,1,0.764705882352941
+35,what 's the difference between a jew and a bullet ? a bullet can,1,0.823529411764706
+35,what 's the difference between a jew and a bullet ? a bullet can escape,1,0.882352941176471
+35,what 's the difference between a jew and a bullet ? a bullet can escape the,1,0.941176470588235
+35,what 's the difference between a jew and a bullet ? a bullet can escape the chamber,1,1
+36,How,0,0.111111111111111
+36,How do,0,0.222222222222222
+36,How do you,0,0.333333333333333
+36,How do you name,0,0.444444444444444
+36,How do you name a,0,0.555555555555556
+36,How do you name a jew,0.5,0.666666666666667
+36,How do you name a jew pokémon,1,0.777777777777778
+36,How do you name a jew pokémon trainer,1,0.888888888888889
+36,How do you name a jew pokémon trainer Ash,1,1
+37,What,0,0.125
+37,What is,0,0.25
+37,What is an,0,0.375
+37,What is an Ethiopian's,0.2,0.5
+37,What is an Ethiopian's favorite,0.3,0.625
+37,What is an Ethiopian's favorite videogame?,0.6,0.75
+37,What is an Ethiopian's favorite videogame? Don't,0.8,0.875
+37,What is an Ethiopian's favorite videogame? Don't Starve,1,1
+38,What,0,0.0833333333333333
+38,What do,0,0.166666666666667
+38,What do you,0,0.25
+38,What do you call,0.3,0.333333333333333
+38,What do you call two,0.3,0.416666666666667
+38,What do you call two chimps,0.5,0.5
+38,What do you call two chimps that,0.5,0.583333333333333
+38,What do you call two chimps that fall,0.5,0.666666666666667
+38,What do you call two chimps that fall in,0.5,0.75
+38,What do you call two chimps that fall in love?,0.6,0.833333333333333
+38,What do you call two chimps that fall in love? Black,0.9,0.916666666666667
+38,What do you call two chimps that fall in love? Black people.,1,1
+39,Are,0,0.1
+39,Are you,0,0.2
+39,Are you really,0,0.3
+39,Are you really going,0,0.4
+39,Are you really going to,0,0.5
+39,Are you really going to let,0,0.6
+39,Are you really going to let a,0,0.7
+39,Are you really going to let a GIRL,0.5,0.8
+39,Are you really going to let a GIRL beat,0.9,0.9
+39,Are you really going to let a GIRL beat you?,1,1
+40,What,0,0.0526315789473684
+40,What do,0,0.105263157894737
+40,What do you,0,0.157894736842105
+40,What do you call,0,0.210526315789474
+40,What do you call it,0.2,0.263157894736842
+40,What do you call it when,0.2,0.315789473684211
+40,What do you call it when a,0.2,0.368421052631579
+40,What do you call it when a black,0.6,0.421052631578947
+40,What do you call it when a black person,0.7,0.473684210526316
+40,What do you call it when a black person hides,0.7,0.526315789473684
+40,What do you call it when a black person hides from,0.7,0.578947368421053
+40,What do you call it when a black person hides from a,0.7,0.631578947368421
+40,What do you call it when a black person hides from a cop,1,0.68421052631579
+40,What do you call it when a black person hides from a cop at,1,0.736842105263158
+40,What do you call it when a black person hides from a cop at night?,1,0.789473684210526
+40,What do you call it when a black person hides from a cop at night? Good,1,0.842105263157895
+40,What do you call it when a black person hides from a cop at night? Good use,1,0.894736842105263
+40,What do you call it when a black person hides from a cop at night? Good use of,1,0.947368421052632
+40,What do you call it when a black person hides from a cop at night? Good use of camouflage.,1,1
+41,Whats,0,0.0555555555555556
+41,Whats tougher,0,0.111111111111111
+41,Whats tougher than,0,0.166666666666667
+41,Whats tougher than a,0,0.222222222222222
+41,Whats tougher than a white,0.3,0.277777777777778
+41,Whats tougher than a white man,0.4,0.333333333333333
+41,Whats tougher than a white man roaming,0.4,0.388888888888889
+41,Whats tougher than a white man roaming the,0.4,0.444444444444444
+41,Whats tougher than a white man roaming the streets,0.4,0.5
+41,Whats tougher than a white man roaming the streets of,0.4,0.555555555555556
+41,Whats tougher than a white man roaming the streets of Compton....,0.8,0.611111111111111
+41,Whats tougher than a white man roaming the streets of Compton.... A,0.8,0.666666666666667
+41,Whats tougher than a white man roaming the streets of Compton.... A dog,0.8,0.722222222222222
+41,Whats tougher than a white man roaming the streets of Compton.... A dog roaming,0.8,0.777777777777778
+41,Whats tougher than a white man roaming the streets of Compton.... A dog roaming the,0.8,0.833333333333333
+41,Whats tougher than a white man roaming the streets of Compton.... A dog roaming the streets,0.8,0.888888888888889
+41,Whats tougher than a white man roaming the streets of Compton.... A dog roaming the streets of,0.8,0.944444444444444
+41,Whats tougher than a white man roaming the streets of Compton.... A dog roaming the streets of China,1,1
+42,There's,0,0.032258064516129
+42,There's African,0.2,0.0645161290322581
+42,There's African Americans,0.3,0.0967741935483871
+42,There's African Americans and,0.3,0.129032258064516
+42,There's African Americans and then,0.3,0.161290322580645
+42,There's African Americans and then there's,0.3,0.193548387096774
+42,There's African Americans and then there's black,0.6,0.225806451612903
+42,There's African Americans and then there's black people.,1,0.258064516129032
+42,There's African Americans and then there's black people. There's,1,0.290322580645161
+42,There's African Americans and then there's black people. There's a,1,0.32258064516129
+42,There's African Americans and then there's black people. There's a difference.,1,0.354838709677419
+42,"There's African Americans and then there's black people. There's a difference. Like,",1,0.387096774193548
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah",1,0.419354838709677
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is",1,0.451612903225806
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an",1,0.483870967741936
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African",1,0.516129032258065
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American,",1,0.548387096774194
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American, but",1,0.580645161290323
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American, but some",1,0.612903225806452
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American, but some random",1,0.645161290322581
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American, but some random black",1,0.67741935483871
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American, but some random black guy",1,0.709677419354839
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American, but some random black guy off",1,0.741935483870968
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American, but some random black guy off the",1,0.774193548387097
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American, but some random black guy off the street",1,0.806451612903226
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American, but some random black guy off the street doesn't",1,0.838709677419355
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American, but some random black guy off the street doesn't deserve",1,0.870967741935484
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American, but some random black guy off the street doesn't deserve the",1,0.903225806451613
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American, but some random black guy off the street doesn't deserve the title,",1,0.935483870967742
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American, but some random black guy off the street doesn't deserve the title, you",1,0.967741935483871
+42,"There's African Americans and then there's black people. There's a difference. Like, Oprah is an African American, but some random black guy off the street doesn't deserve the title, you know?",1,1
+43,what,0,0.0416666666666667
+43,what happens,0,0.0833333333333333
+43,what happens when,0,0.125
+43,what happens when you,0,0.166666666666667
+43,what happens when you boil,0,0.208333333333333
+43,what happens when you boil a,0,0.25
+43,what happens when you boil a cabbage,0.4,0.291666666666667
+43,what happens when you boil a cabbage ?,0.4,0.333333333333333
+43,what happens when you boil a cabbage ? i,0.4,0.375
+43,what happens when you boil a cabbage ? i do,0.4,0.416666666666667
+43,what happens when you boil a cabbage ? i do n't,0.4,0.458333333333333
+43,what happens when you boil a cabbage ? i do n't know,0.4,0.5
+43,"what happens when you boil a cabbage ? i do n't know ,",0.4,0.541666666666667
+43,"what happens when you boil a cabbage ? i do n't know , a",0.4,0.583333333333333
+43,"what happens when you boil a cabbage ? i do n't know , a japanese",0.6,0.625
+43,"what happens when you boil a cabbage ? i do n't know , a japanese guy",0.6,0.666666666666667
+43,"what happens when you boil a cabbage ? i do n't know , a japanese guy stabbed",1,0.708333333333333
+43,"what happens when you boil a cabbage ? i do n't know , a japanese guy stabbed him",1,0.75
+43,"what happens when you boil a cabbage ? i do n't know , a japanese guy stabbed him before",1,0.791666666666667
+43,"what happens when you boil a cabbage ? i do n't know , a japanese guy stabbed him before i",1,0.833333333333333
+43,"what happens when you boil a cabbage ? i do n't know , a japanese guy stabbed him before i could",1,0.875
+43,"what happens when you boil a cabbage ? i do n't know , a japanese guy stabbed him before i could find",1,0.916666666666667
+43,"what happens when you boil a cabbage ? i do n't know , a japanese guy stabbed him before i could find out",1,0.958333333333333
+43,"what happens when you boil a cabbage ? i do n't know , a japanese guy stabbed him before i could find out .",1,1
+44,What,0,0.0769230769230769
+44,What have,0,0.153846153846154
+44,What have parents,0,0.230769230769231
+44,What have parents and,0,0.307692307692308
+44,What have parents and pizzas,0.4,0.384615384615385
+44,What have parents and pizzas in,0.4,0.461538461538462
+44,What have parents and pizzas in common?,0.4,0.538461538461538
+44,What have parents and pizzas in common? When,0.4,0.615384615384615
+44,What have parents and pizzas in common? When they're,0.4,0.692307692307692
+44,"What have parents and pizzas in common? When they're black,",1,0.769230769230769
+44,"What have parents and pizzas in common? When they're black, there's",1,0.846153846153846
+44,"What have parents and pizzas in common? When they're black, there's no",1,0.923076923076923
+44,"What have parents and pizzas in common? When they're black, there's no food.",1,1
+45,Not,0,0.0909090909090909
+45,Not all,0,0.181818181818182
+45,Not all gay,0.4,0.272727272727273
+45,Not all gay men,0.4,0.363636363636364
+45,Not all gay men are,0.4,0.454545454545455
+45,"Not all gay men are sissies,",1,0.545454545454545
+45,"Not all gay men are sissies, but",1,0.636363636363636
+45,"Not all gay men are sissies, but all",1,0.727272727272727
+45,"Not all gay men are sissies, but all sissies",1,0.818181818181818
+45,"Not all gay men are sissies, but all sissies are",1,0.909090909090909
+45,"Not all gay men are sissies, but all sissies are gay.",1,1

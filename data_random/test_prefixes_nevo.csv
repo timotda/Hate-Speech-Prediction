@@ -1,0 +1,1307 @@
+partial_phrase,label
+Not all,0
+Not all gay,0.4
+Not all gay men,0.5
+Not all gay men are,0.5
+"Not all gay men are sissies,",0.6
+"Not all gay men are sissies, but",0.7
+"Not all gay men are sissies, but all",0.7
+"Not all gay men are sissies, but all sissies",0.8
+"Not all gay men are sissies, but all sissies are",0.9
+"Not all gay men are sissies, but all sissies are gay.",1
+I'm,0
+"I'm male,",0.4
+"I'm male, and",0.4
+"I'm male, and am",0.4
+"I'm male, and am asking",0.4
+"I'm male, and am asking this",0.5
+"I'm male, and am asking this question",0.5
+"I'm male, and am asking this question to",0.5
+"I'm male, and am asking this question to non-binary",0.5
+"I'm male, and am asking this question to non-binary identified",0.5
+"I'm male, and am asking this question to non-binary identified people.",0.5
+"I'm male, and am asking this question to non-binary identified people. Why",0.5
+"I'm male, and am asking this question to non-binary identified people. Why do",0.6
+"I'm male, and am asking this question to non-binary identified people. Why do you",0.6
+"I'm male, and am asking this question to non-binary identified people. Why do you give",0.6
+"I'm male, and am asking this question to non-binary identified people. Why do you give so",0.6
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much",0.6
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of",0.6
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a",0.6
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a crap?",0.6
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a crap? Why",0.7
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a crap? Why can't",0.7
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a crap? Why can't you",0.7
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a crap? Why can't you just",0.7
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a crap? Why can't you just lighten",0.7
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a crap? Why can't you just lighten up,",0.7
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a crap? Why can't you just lighten up, let",0.7
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a crap? Why can't you just lighten up, let the",0.8
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a crap? Why can't you just lighten up, let the thread",0.8
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a crap? Why can't you just lighten up, let the thread happen,",0.8
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a crap? Why can't you just lighten up, let the thread happen, and",0.8
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a crap? Why can't you just lighten up, let the thread happen, and ignore",0.9
+"I'm male, and am asking this question to non-binary identified people. Why do you give so much of a crap? Why can't you just lighten up, let the thread happen, and ignore it?",1
+Turn,0
+Turn up,0
+Turn up your,0
+Turn up your hearing,0
+Turn up your hearing aid?,0
+Turn up your hearing aid? A,0
+Turn up your hearing aid? A thought,0
+Turn up your hearing aid? A thought @C_tWINO,0
+Turn up your hearing aid? A thought @C_tWINO I'm,0
+Turn up your hearing aid? A thought @C_tWINO I'm not,0
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist,0
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist but,0
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist but it's,0
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist but it's nearly,0
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist but it's nearly impossible,0
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist but it's nearly impossible to,0
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist but it's nearly impossible to listen,0
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist but it's nearly impossible to listen to,0
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist but it's nearly impossible to listen to a,0
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist but it's nearly impossible to listen to a girl,0.4
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist but it's nearly impossible to listen to a girl talking,0.5
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist but it's nearly impossible to listen to a girl talking about,0.7
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist but it's nearly impossible to listen to a girl talking about football,0.8
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist but it's nearly impossible to listen to a girl talking about football on,0.9
+Turn up your hearing aid? A thought @C_tWINO I'm not sexist but it's nearly impossible to listen to a girl talking about football on ESPN,1
+Why,0
+Why was,0
+Why was the,0
+Why was the pastor,0
+Why was the pastor bad,0
+Why was the pastor bad at,0
+Why was the pastor bad at slang?,0
+Why was the pastor bad at slang? He,0
+Why was the pastor bad at slang? He took,0.5
+Why was the pastor bad at slang? He took the,0.6
+"Why was the pastor bad at slang? He took the saying,",0.6
+"Why was the pastor bad at slang? He took the saying, ""I",0.7
+"Why was the pastor bad at slang? He took the saying, ""I feel",0.7
+"Why was the pastor bad at slang? He took the saying, ""I feel you""",0.8
+"Why was the pastor bad at slang? He took the saying, ""I feel you"" too",0.9
+"Why was the pastor bad at slang? He took the saying, ""I feel you"" too literal.",1
+How,0
+How do,0
+How do you,0
+How do you get,0
+How do you get a,0
+How do you get a black,0.6
+How do you get a black man,0.6
+How do you get a black man out,0.7
+How do you get a black man out of,0.7
+How do you get a black man out of a,0.7
+How do you get a black man out of a tree?,0.8
+How do you get a black man out of a tree? Cut,0.8
+How do you get a black man out of a tree? Cut the,0.9
+How do you get a black man out of a tree? Cut the rope.,1
+What's,0
+What's the,0
+What's the difference,0
+What's the difference between,0
+What's the difference between a,0
+What's the difference between a black,0.4
+What's the difference between a black person,0.5
+What's the difference between a black person and,0.5
+What's the difference between a black person and a,0.6
+What's the difference between a black person and a bucket,0.7
+What's the difference between a black person and a bucket of,0.7
+What's the difference between a black person and a bucket of shit?,0.8
+What's the difference between a black person and a bucket of shit? The,0.9
+What's the difference between a black person and a bucket of shit? The bucket.,1
+What,0
+What do,0
+What do you,0
+What do you get,0
+What do you get when,0
+What do you get when throw,0
+What do you get when throw a,0
+What do you get when throw a Molotov,0
+What do you get when throw a Molotov cocktail,0
+What do you get when throw a Molotov cocktail into,0
+What do you get when throw a Molotov cocktail into a,0
+What do you get when throw a Molotov cocktail into a gay,0.8
+What do you get when throw a Molotov cocktail into a gay pride,0.8
+What do you get when throw a Molotov cocktail into a gay pride parade?,0.8
+What do you get when throw a Molotov cocktail into a gay pride parade? An,0.9
+What do you get when throw a Molotov cocktail into a gay pride parade? An LGBTQBBQ,1
+Why,0
+Why don't,0
+Why don't bookmakers,0
+Why don't bookmakers take,0
+Why don't bookmakers take bets,0
+Why don't bookmakers take bets on,0
+Why don't bookmakers take bets on the,0
+Why don't bookmakers take bets on the special,0
+Why don't bookmakers take bets on the special Olympics?,0
+Why don't bookmakers take bets on the special Olympics? because,0
+Why don't bookmakers take bets on the special Olympics? because they're,0
+Why don't bookmakers take bets on the special Olympics? because they're all,0.9
+Why don't bookmakers take bets on the special Olympics? because they're all winners,1
+Why,0
+Why do,0
+Why do white,0.5
+Why do white people,0.5
+Why do white people have,0.5
+Why do white people have such,0.6
+Why do white people have such a,0.6
+Why do white people have such a pleasant,0.6
+Why do white people have such a pleasant scent?,0.6
+Why do white people have such a pleasant scent? So,0.7
+Why do white people have such a pleasant scent? So blind,0.7
+Why do white people have such a pleasant scent? So blind people,0.7
+Why do white people have such a pleasant scent? So blind people can,0.7
+Why do white people have such a pleasant scent? So blind people can distinguish,0.8
+Why do white people have such a pleasant scent? So blind people can distinguish them,0.8
+Why do white people have such a pleasant scent? So blind people can distinguish them from,0.8
+Why do white people have such a pleasant scent? So blind people can distinguish them from animals,0.9
+Why do white people have such a pleasant scent? So blind people can distinguish them from animals too.,1
+I,0
+I want,0
+I want to,0
+I want to make,0
+I want to make bumper,0
+I want to make bumper stickers,0
+I want to make bumper stickers that,0
+I want to make bumper stickers that say,0.7
+I want to make bumper stickers that say ISLAM,0.7
+I want to make bumper stickers that say ISLAM IS,0.7
+I want to make bumper stickers that say ISLAM IS NOT,0.7
+I want to make bumper stickers that say ISLAM IS NOT A,0.8
+I want to make bumper stickers that say ISLAM IS NOT A PEACEFUL,0.8
+I want to make bumper stickers that say ISLAM IS NOT A PEACEFUL RELIGION,0.8
+I want to make bumper stickers that say ISLAM IS NOT A PEACEFUL RELIGION and,0.8
+I want to make bumper stickers that say ISLAM IS NOT A PEACEFUL RELIGION and sell,0.9
+I want to make bumper stickers that say ISLAM IS NOT A PEACEFUL RELIGION and sell them.,1
+what,0
+what s,0
+what s the,0
+what s the difference,0
+what s the difference between,0
+what s the difference between a,0
+what s the difference between a black,0.8
+what s the difference between a black person,0.8
+what s the difference between a black person and,0.8
+what s the difference between a black person and a,0.8
+what s the difference between a black person and a colorful,0.8
+what s the difference between a black person and a colorful explosion,0.8
+what s the difference between a black person and a colorful explosion in,0.8
+what s the difference between a black person and a colorful explosion in the,0.8
+what s the difference between a black person and a colorful explosion in the sky,0.8
+what s the difference between a black person and a colorful explosion in the sky ?,0.8
+what s the difference between a black person and a colorful explosion in the sky ? fire,0.9
+what s the difference between a black person and a colorful explosion in the sky ? fire works,1
+How,0
+How do,0
+How do you,0
+How do you stop,0
+How do you stop black,0.6
+How do you stop black kids,0.6
+How do you stop black kids from,0.6
+How do you stop black kids from jumping,0.7
+How do you stop black kids from jumping on,0.7
+How do you stop black kids from jumping on the,0.7
+How do you stop black kids from jumping on the bed?,0.7
+How do you stop black kids from jumping on the bed? Put,0.8
+How do you stop black kids from jumping on the bed? Put Velcro,0.8
+How do you stop black kids from jumping on the bed? Put Velcro on,0.8
+How do you stop black kids from jumping on the bed? Put Velcro on the,0.9
+How do you stop black kids from jumping on the bed? Put Velcro on the ceiling,1
+Normies,0
+Normies live,0
+Normies live in,0
+Normies live in constant,0
+Normies live in constant fear,0
+Normies live in constant fear because,0
+Normies live in constant fear because their,0
+Normies live in constant fear because their girlfriends,0
+Normies live in constant fear because their girlfriends dress,0
+Normies live in constant fear because their girlfriends dress up,0
+Normies live in constant fear because their girlfriends dress up slutty,0
+Normies live in constant fear because their girlfriends dress up slutty then,0
+Normies live in constant fear because their girlfriends dress up slutty then drink,0
+Normies live in constant fear because their girlfriends dress up slutty then drink their,0
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition,0
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away,0
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside,0
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny,0
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny men,0.7
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny men on,0.7
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny men on a,0.7
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny men on a weekly,0.7
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny men on a weekly basis,0.7
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny men on a weekly basis This,0.7
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny men on a weekly basis This is,0.8
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny men on a weekly basis This is routine,0.8
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny men on a weekly basis This is routine and,0.8
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny men on a weekly basis This is routine and encouraged,0.8
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny men on a weekly basis This is routine and encouraged in,0.8
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny men on a weekly basis This is routine and encouraged in the,0.8
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny men on a weekly basis This is routine and encouraged in the degenerate,0.9
+Normies live in constant fear because their girlfriends dress up slutty then drink their inhibition away alongside horny men on a weekly basis This is routine and encouraged in the degenerate west.,1
+Pennies,0
+Pennies are,0
+Pennies are brown,0
+Pennies are brown because,0
+Pennies are brown because they’re,0
+Pennies are brown because they’re worth,0
+Pennies are brown because they’re worth almost,0
+Pennies are brown because they’re worth almost nothing,0
+Pennies are brown because they’re worth almost nothing and,0
+Pennies are brown because they’re worth almost nothing and cost,0
+Pennies are brown because they’re worth almost nothing and cost more,0
+Pennies are brown because they’re worth almost nothing and cost more to,0
+Pennies are brown because they’re worth almost nothing and cost more to manufacture,0
+Pennies are brown because they’re worth almost nothing and cost more to manufacture than,0
+Pennies are brown because they’re worth almost nothing and cost more to manufacture than what,0
+Pennies are brown because they’re worth almost nothing and cost more to manufacture than what they’re,0.9
+Pennies are brown because they’re worth almost nothing and cost more to manufacture than what they’re worth.,1
+What’s,0
+What’s the,0
+What’s the difference,0
+What’s the difference between,0
+What’s the difference between a,0
+What’s the difference between a black,0.5
+What’s the difference between a black man,0.5
+What’s the difference between a black man and,0.6
+What’s the difference between a black man and park,0.6
+What’s the difference between a black man and park bench?,0.6
+What’s the difference between a black man and park bench? A,0.6
+What’s the difference between a black man and park bench? A park,0.7
+What’s the difference between a black man and park bench? A park bench,0.7
+What’s the difference between a black man and park bench? A park bench can,0.7
+What’s the difference between a black man and park bench? A park bench can support,0.7
+What’s the difference between a black man and park bench? A park bench can support a,0.8
+What’s the difference between a black man and park bench? A park bench can support a family,0.8
+What’s the difference between a black man and park bench? A park bench can support a family of,0.9
+What’s the difference between a black man and park bench? A park bench can support a family of 4,1
+LOL,0
+LOL EDGY,0
+LOL EDGY @ein_schoner_tag,0
+LOL EDGY @ein_schoner_tag @shedevil___,0
+LOL EDGY @ein_schoner_tag @shedevil___ @ahptik,0
+LOL EDGY @ein_schoner_tag @shedevil___ @ahptik im,0
+LOL EDGY @ein_schoner_tag @shedevil___ @ahptik im not,0
+LOL EDGY @ein_schoner_tag @shedevil___ @ahptik im not sexist,0
+LOL EDGY @ein_schoner_tag @shedevil___ @ahptik im not sexist but,0
+LOL EDGY @ein_schoner_tag @shedevil___ @ahptik im not sexist but why,0
+LOL EDGY @ein_schoner_tag @shedevil___ @ahptik im not sexist but why are,0
+LOL EDGY @ein_schoner_tag @shedevil___ @ahptik im not sexist but why are women,0.8
+LOL EDGY @ein_schoner_tag @shedevil___ @ahptik im not sexist but why are women allowed,0.8
+LOL EDGY @ein_schoner_tag @shedevil___ @ahptik im not sexist but why are women allowed opinions,0.9
+LOL EDGY @ein_schoner_tag @shedevil___ @ahptik im not sexist but why are women allowed opinions lol,1
+What,0
+What happens,0
+What happens when,0
+What happens when you,0
+What happens when you roast,0
+What happens when you roast the,0
+What happens when you roast the quiet,0
+What happens when you roast the quiet Asian,0.5
+What happens when you roast the quiet Asian kid?,0.6
+What happens when you roast the quiet Asian kid? Your,0.7
+What happens when you roast the quiet Asian kid? Your pet,0.8
+What happens when you roast the quiet Asian kid? Your pet goes,0.9
+What happens when you roast the quiet Asian kid? Your pet goes missing.,1
+What,0
+What is,0
+What is the,0
+What is the difference,0
+What is the difference between,0
+What is the difference between Santa,0
+What is the difference between Santa Claus,0
+What is the difference between Santa Claus and,0
+What is the difference between Santa Claus and jews?,0.7
+What is the difference between Santa Claus and jews? Santa,0.7
+What is the difference between Santa Claus and jews? Santa comes,0.8
+What is the difference between Santa Claus and jews? Santa comes down,0.8
+What is the difference between Santa Claus and jews? Santa comes down the,0.9
+What is the difference between Santa Claus and jews? Santa comes down the chimney.,1
+I,0
+I reported,0
+I reported a,0
+I reported a video,0
+I reported a video on,0
+I reported a video on YouTube,0
+I reported a video on YouTube for,0
+I reported a video on YouTube for animal,0
+I reported a video on YouTube for animal abuse,0
+I reported a video on YouTube for animal abuse My,0
+I reported a video on YouTube for animal abuse My report,0
+I reported a video on YouTube for animal abuse My report got,0
+I reported a video on YouTube for animal abuse My report got rejected,0
+I reported a video on YouTube for animal abuse My report got rejected it,0
+I reported a video on YouTube for animal abuse My report got rejected it was,0
+I reported a video on YouTube for animal abuse My report got rejected it was footage,0
+I reported a video on YouTube for animal abuse My report got rejected it was footage of,0
+I reported a video on YouTube for animal abuse My report got rejected it was footage of a,0
+I reported a video on YouTube for animal abuse My report got rejected it was footage of a black,0.5
+I reported a video on YouTube for animal abuse My report got rejected it was footage of a black man,0.8
+I reported a video on YouTube for animal abuse My report got rejected it was footage of a black man being,0.9
+I reported a video on YouTube for animal abuse My report got rejected it was footage of a black man being beaten,1
+Sorry,0
+"Sorry ,",0
+"Sorry , that",0
+"Sorry , that must",0
+"Sorry , that must be",0
+"Sorry , that must be my",0
+"Sorry , that must be my Black",0
+"Sorry , that must be my Black coming",0.9
+"Sorry , that must be my Black coming out.",1
+Where,0
+Where could,0
+Where could you,0
+Where could you find,0
+Where could you find a,0
+Where could you find a quadriplegic?,0
+Where could you find a quadriplegic? Where,0
+Where could you find a quadriplegic? Where you,0
+Where could you find a quadriplegic? Where you left,0.9
+Where could you find a quadriplegic? Where you left him.,1
+What's,0
+What's the,0
+What's the difference,0
+What's the difference between,0
+What's the difference between a,0
+What's the difference between a black,0.7
+What's the difference between a black person,0.7
+What's the difference between a black person and,0.7
+What's the difference between a black person and a,0.7
+What's the difference between a black person and a bicycle?,0.7
+What's the difference between a black person and a bicycle? The,0.7
+What's the difference between a black person and a bicycle? The bicycle,0.7
+What's the difference between a black person and a bicycle? The bicycle doesn't,0.8
+What's the difference between a black person and a bicycle? The bicycle doesn't start,0.8
+What's the difference between a black person and a bicycle? The bicycle doesn't start singing,0.8
+What's the difference between a black person and a bicycle? The bicycle doesn't start singing when,0.8
+What's the difference between a black person and a bicycle? The bicycle doesn't start singing when you,0.8
+What's the difference between a black person and a bicycle? The bicycle doesn't start singing when you put,0.8
+What's the difference between a black person and a bicycle? The bicycle doesn't start singing when you put chains,0.8
+What's the difference between a black person and a bicycle? The bicycle doesn't start singing when you put chains on,0.9
+What's the difference between a black person and a bicycle? The bicycle doesn't start singing when you put chains on it.,1
+How,0
+How long,0
+How long does,0
+How long does it,0
+How long does it take,0
+How long does it take a,0
+How long does it take a black,0.4
+How long does it take a black woman,0.5
+How long does it take a black woman to,0.6
+How long does it take a black woman to take,0.6
+How long does it take a black woman to take a,0.7
+How long does it take a black woman to take a dump?,0.8
+How long does it take a black woman to take a dump? 9,0.9
+How long does it take a black woman to take a dump? 9 months,1
+what,0
+what do,0
+what do you,0
+what do you call,0
+what do you call a,0
+what do you call a good,0.8
+what do you call a good looking,0.8
+what do you call a good looking muslim,0.8
+what do you call a good looking muslim ?,0.9
+what do you call a good looking muslim ? asif,1
+why,0
+why are,0
+why are aspirins,0
+why are aspirins white,0.7
+why are aspirins white ?,0.8
+why are aspirins white ? because,0.8
+why are aspirins white ? because they,0.9
+why are aspirins white ? because they work,1
+What's,0
+What's the,0
+What's the difference,0
+What's the difference between,0
+What's the difference between a,0
+What's the difference between a woman,0.4
+What's the difference between a woman and,0.4
+What's the difference between a woman and a,0.5
+What's the difference between a woman and a car,0.5
+What's the difference between a woman and a car crash?,0.6
+What's the difference between a woman and a car crash? A,0.6
+What's the difference between a woman and a car crash? A car,0.7
+What's the difference between a woman and a car crash? A car crash,0.7
+What's the difference between a woman and a car crash? A car crash won't,0.8
+What's the difference between a woman and a car crash? A car crash won't kill,0.8
+What's the difference between a woman and a car crash? A car crash won't kill you,0.9
+What's the difference between a woman and a car crash? A car crash won't kill you slowly.,1
+You,0
+You only,0
+You only got,0
+You only got into,0
+You only got into [my,0
+You only got into [my university],0
+You only got into [my university] because,0
+You only got into [my university] because you're,0
+You only got into [my university] because you're Native,0
+You only got into [my university] because you're Native American,0
+You only got into [my university] because you're Native American AND,0
+You only got into [my university] because you're Native American AND Mexican.,0.6
+You only got into [my university] because you're Native American AND Mexican. I,0.6
+You only got into [my university] because you're Native American AND Mexican. I had,0.6
+You only got into [my university] because you're Native American AND Mexican. I had to,0.6
+You only got into [my university] because you're Native American AND Mexican. I had to work,0.7
+You only got into [my university] because you're Native American AND Mexican. I had to work harder,0.7
+You only got into [my university] because you're Native American AND Mexican. I had to work harder to,0.7
+You only got into [my university] because you're Native American AND Mexican. I had to work harder to get,0.7
+You only got into [my university] because you're Native American AND Mexican. I had to work harder to get into,0.7
+You only got into [my university] because you're Native American AND Mexican. I had to work harder to get into this,0.7
+You only got into [my university] because you're Native American AND Mexican. I had to work harder to get into this same,0.7
+You only got into [my university] because you're Native American AND Mexican. I had to work harder to get into this same honors,0.8
+"You only got into [my university] because you're Native American AND Mexican. I had to work harder to get into this same honors program,",0.8
+"You only got into [my university] because you're Native American AND Mexican. I had to work harder to get into this same honors program, and",0.8
+"You only got into [my university] because you're Native American AND Mexican. I had to work harder to get into this same honors program, and that's",0.8
+"You only got into [my university] because you're Native American AND Mexican. I had to work harder to get into this same honors program, and that's not",0.9
+"You only got into [my university] because you're Native American AND Mexican. I had to work harder to get into this same honors program, and that's not fair.",1
+Gay,0.5
+Gay Muslims,0.5
+Gay Muslims are,0.6
+Gay Muslims are the,0.6
+Gay Muslims are the horniest.,0.7
+Gay Muslims are the horniest. They,0.7
+Gay Muslims are the horniest. They blow,0.8
+Gay Muslims are the horniest. They blow the,0.8
+Gay Muslims are the horniest. They blow the entire,0.9
+Gay Muslims are the horniest. They blow the entire neighborhood.,1
+what,0
+what do,0
+what do you,0
+what do you call,0
+what do you call a,0
+what do you call a smart,0
+what do you call a smart black,0.4
+what do you call a smart black person,0.6
+what do you call a smart black person ?,0.8
+what do you call a smart black person ? nonexistent,0.9
+what do you call a smart black person ? nonexistent .,1
+So,0
+So blacks,0
+So blacks are,0
+So blacks are the,0
+So blacks are the fastest,0
+So blacks are the fastest runners,0
+So blacks are the fastest runners and,0
+So blacks are the fastest runners and whites,0
+So blacks are the fastest runners and whites are,0
+So blacks are the fastest runners and whites are the,0
+So blacks are the fastest runners and whites are the best,0
+"So blacks are the fastest runners and whites are the best swimmers,",0
+"So blacks are the fastest runners and whites are the best swimmers, the",0
+"So blacks are the fastest runners and whites are the best swimmers, the polar",0
+"So blacks are the fastest runners and whites are the best swimmers, the polar ice",0
+"So blacks are the fastest runners and whites are the best swimmers, the polar ice caps",0
+"So blacks are the fastest runners and whites are the best swimmers, the polar ice caps are",0
+"So blacks are the fastest runners and whites are the best swimmers, the polar ice caps are melting,",0
+"So blacks are the fastest runners and whites are the best swimmers, the polar ice caps are melting, Evolution",0
+"So blacks are the fastest runners and whites are the best swimmers, the polar ice caps are melting, Evolution at",0.9
+"So blacks are the fastest runners and whites are the best swimmers, the polar ice caps are melting, Evolution at work",1
+what,0
+what do,0
+what do you,0
+what do you call,0
+what do you call a,0
+what do you call a jew,0.4
+what do you call a jew that,0.5
+what do you call a jew that jumps,0.5
+what do you call a jew that jumps out,0.6
+what do you call a jew that jumps out of,0.6
+what do you call a jew that jumps out of a,0.7
+what do you call a jew that jumps out of a plane,0.7
+what do you call a jew that jumps out of a plane a,0.8
+what do you call a jew that jumps out of a plane a falling,0.9
+what do you call a jew that jumps out of a plane a falling star,1
+How,0
+How many,0
+How many Jews,0.8
+How many Jews does,0.8
+How many Jews does it,0.8
+How many Jews does it take,0.8
+How many Jews does it take to,0.8
+How many Jews does it take to cook,0.8
+How many Jews does it take to cook a,0.8
+How many Jews does it take to cook a dinner?,0.8
+How many Jews does it take to cook a dinner? Two.,0.8
+How many Jews does it take to cook a dinner? Two. One,0.8
+How many Jews does it take to cook a dinner? Two. One in,0.8
+How many Jews does it take to cook a dinner? Two. One in the,0.8
+"How many Jews does it take to cook a dinner? Two. One in the fire,",0.8
+"How many Jews does it take to cook a dinner? Two. One in the fire, one",0.8
+"How many Jews does it take to cook a dinner? Two. One in the fire, one above",0.8
+"How many Jews does it take to cook a dinner? Two. One in the fire, one above the",0.9
+"How many Jews does it take to cook a dinner? Two. One in the fire, one above the fire.",1
+why,0
+why did,0
+why did a,0
+why did a black,0.6
+why did a black man,0.6
+why did a black man cross,0.6
+why did a black man cross the,0.7
+why did a black man cross the road,0.7
+why did a black man cross the road ?,0.7
+why did a black man cross the road ? hey,0.7
+why did a black man cross the road ? hey !,0.7
+why did a black man cross the road ? hey ! gimme,0.8
+why did a black man cross the road ? hey ! gimme back,0.8
+why did a black man cross the road ? hey ! gimme back my,0.8
+why did a black man cross the road ? hey ! gimme back my wallet,0.9
+why did a black man cross the road ? hey ! gimme back my wallet !,1
+I,0
+I think,0.8
+I think its,0.8
+I think its wrong,0.8
+I think its wrong to,0.8
+I think its wrong to refer,0.8
+I think its wrong to refer to,0.8
+I think its wrong to refer to a,0.8
+I think its wrong to refer to a negro,0.8
+I think its wrong to refer to a negro as,0.8
+"I think its wrong to refer to a negro as ""boy""",0.8
+"I think its wrong to refer to a negro as ""boy"" That",0.8
+"I think its wrong to refer to a negro as ""boy"" That implies",0.8
+"I think its wrong to refer to a negro as ""boy"" That implies they",0.8
+"I think its wrong to refer to a negro as ""boy"" That implies they are",0.9
+"I think its wrong to refer to a negro as ""boy"" That implies they are people.",1
+What's,0
+What's one,0
+What's one thing,0
+What's one thing you,0
+What's one thing you never,0
+What's one thing you never say,0.8
+What's one thing you never say to,0.8
+What's one thing you never say to a,0.8
+What's one thing you never say to a school,0.8
+What's one thing you never say to a school shooter,0.8
+What's one thing you never say to a school shooter Think,0.8
+What's one thing you never say to a school shooter Think of,0.8
+What's one thing you never say to a school shooter Think of the,0.9
+What's one thing you never say to a school shooter Think of the children,1
+if,0
+if your,0
+if your dog,0
+if your dog is,0
+if your dog is barking,0
+if your dog is barking at,0
+if your dog is barking at the,0
+if your dog is barking at the back,0
+if your dog is barking at the back door,0
+if your dog is barking at the back door and,0
+if your dog is barking at the back door and your,0
+if your dog is barking at the back door and your wife,0
+if your dog is barking at the back door and your wife is,0
+if your dog is barking at the back door and your wife is yelling,0
+if your dog is barking at the back door and your wife is yelling at,0
+if your dog is barking at the back door and your wife is yelling at the,0
+if your dog is barking at the back door and your wife is yelling at the front,0
+if your dog is barking at the back door and your wife is yelling at the front door,0
+"if your dog is barking at the back door and your wife is yelling at the front door ,",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in first",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in first ?",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in first ? the",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in first ? the dog",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in first ? the dog because",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in first ? the dog because he",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in first ? the dog because he shuts",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in first ? the dog because he shuts up",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in first ? the dog because he shuts up after",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in first ? the dog because he shuts up after you",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in first ? the dog because he shuts up after you let",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in first ? the dog because he shuts up after you let him",0
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in first ? the dog because he shuts up after you let him in",0.9
+"if your dog is barking at the back door and your wife is yelling at the front door , who do you let in first ? the dog because he shuts up after you let him in .",1
+what,0
+what happened,0
+what happened to,0
+what happened to the,0
+what happened to the girl,0.7
+what happened to the girl who,0.7
+what happened to the girl who had,0.7
+what happened to the girl who had a,0.7
+what happened to the girl who had a black,0.8
+what happened to the girl who had a black heart,0.8
+what happened to the girl who had a black heart ?,0.8
+what happened to the girl who had a black heart ? cardiac,0.8
+what happened to the girl who had a black heart ? cardiac arrest,0.9
+what happened to the girl who had a black heart ? cardiac arrest .,1
+What's,0
+What's the,0
+What's the difference,0
+What's the difference between,0
+What's the difference between a,0
+What's the difference between a feminist,0.4
+What's the difference between a feminist and,0.5
+What's the difference between a feminist and a,0.5
+What's the difference between a feminist and a knife?,0.6
+What's the difference between a feminist and a knife? A,0.7
+What's the difference between a feminist and a knife? A knife,0.7
+What's the difference between a feminist and a knife? A knife has,0.8
+What's the difference between a feminist and a knife? A knife has a,0.9
+What's the difference between a feminist and a knife? A knife has a point.,1
+Guys,0
+Guys I,0
+Guys I have,0
+Guys I have a,0
+Guys I have a question:,0
+Guys I have a question: when,0
+Guys I have a question: when a,0
+Guys I have a question: when a gay,0.8
+Guys I have a question: when a gay couple,0.8
+Guys I have a question: when a gay couple gets,0.8
+Guys I have a question: when a gay couple gets married,0.8
+Guys I have a question: when a gay couple gets married Who,0.8
+Guys I have a question: when a gay couple gets married Who makes,0.8
+Guys I have a question: when a gay couple gets married Who makes the,0.9
+Guys I have a question: when a gay couple gets married Who makes the sandwiches?,1
+bad,0
+bad drivers,0
+bad drivers are,0
+bad drivers are fined,0
+bad drivers are fined $,0
+bad drivers are fined $ <number>,0
+bad drivers are fined $ <number> now,0
+bad drivers are fined $ <number> now that,0
+bad drivers are fined $ <number> now that s,0
+bad drivers are fined $ <number> now that s just,0
+bad drivers are fined $ <number> now that s just sexist,0.9
+bad drivers are fined $ <number> now that s just sexist .,1
+We,0
+We don't,0
+We don't keep,0
+We don't keep eating,0
+We don't keep eating utensils,0
+We don't keep eating utensils in,0
+We don't keep eating utensils in the,0
+We don't keep eating utensils in the car.,0
+We don't keep eating utensils in the car. That's,0
+We don't keep eating utensils in the car. That's what,0
+We don't keep eating utensils in the car. That's what FAT,0
+We don't keep eating utensils in the car. That's what FAT FAT,0
+We don't keep eating utensils in the car. That's what FAT FAT FAT,0
+We don't keep eating utensils in the car. That's what FAT FAT FAT people,0.9
+We don't keep eating utensils in the car. That's what FAT FAT FAT people do.,1
+A,0
+A wife,0
+A wife is,0
+A wife is killed,0
+A wife is killed after,0
+A wife is killed after a,0
+A wife is killed after a car,0
+A wife is killed after a car drives,0
+A wife is killed after a car drives through,0
+A wife is killed after a car drives through her,0
+A wife is killed after a car drives through her living,0
+A wife is killed after a car drives through her living room,0
+A wife is killed after a car drives through her living room and,0
+A wife is killed after a car drives through her living room and kills,0
+A wife is killed after a car drives through her living room and kills her.,0
+A wife is killed after a car drives through her living room and kills her. Who's,0
+A wife is killed after a car drives through her living room and kills her. Who's fault,0
+A wife is killed after a car drives through her living room and kills her. Who's fault is,0
+A wife is killed after a car drives through her living room and kills her. Who's fault is it?,0
+A wife is killed after a car drives through her living room and kills her. Who's fault is it? The,0
+A wife is killed after a car drives through her living room and kills her. Who's fault is it? The wife's,0
+A wife is killed after a car drives through her living room and kills her. Who's fault is it? The wife's because,0
+A wife is killed after a car drives through her living room and kills her. Who's fault is it? The wife's because she,0
+A wife is killed after a car drives through her living room and kills her. Who's fault is it? The wife's because she should've,0
+A wife is killed after a car drives through her living room and kills her. Who's fault is it? The wife's because she should've been,0
+A wife is killed after a car drives through her living room and kills her. Who's fault is it? The wife's because she should've been in,0
+A wife is killed after a car drives through her living room and kills her. Who's fault is it? The wife's because she should've been in the,0.9
+A wife is killed after a car drives through her living room and kills her. Who's fault is it? The wife's because she should've been in the kitchen,1
+Why,0
+Why do,0
+Why do black,0.8
+Why do black people,0.8
+Why do black people turn,0.8
+Why do black people turn left?,0.8
+Why do black people turn left? Because,0.8
+Why do black people turn left? Because they,0.8
+Why do black people turn left? Because they don't,0.8
+Why do black people turn left? Because they don't have,0.9
+Why do black people turn left? Because they don't have rights.,1
+what,0
+what do,0
+what do you,0
+what do you call,0
+what do you call a,0
+what do you call a sheet,0
+what do you call a sheet of,0
+what do you call a sheet of metal,0
+what do you call a sheet of metal leaning,0
+what do you call a sheet of metal leaning on,0
+what do you call a sheet of metal leaning on a,0
+what do you call a sheet of metal leaning on a tree,0
+what do you call a sheet of metal leaning on a tree ?,0
+what do you call a sheet of metal leaning on a tree ? free,0
+what do you call a sheet of metal leaning on a tree ? free aboriginal,0
+what do you call a sheet of metal leaning on a tree ? free aboriginal housing,0.9
+what do you call a sheet of metal leaning on a tree ? free aboriginal housing .,1
+What,0
+What do,0
+What do you,0
+What do you say,0.4
+What do you say to,0.4
+What do you say to a,0.5
+What do you say to a woman,0.5
+What do you say to a woman with,0.5
+What do you say to a woman with two,0.6
+What do you say to a woman with two black,0.6
+What do you say to a woman with two black eyes?,0.7
+"What do you say to a woman with two black eyes? Nothing,",0.7
+"What do you say to a woman with two black eyes? Nothing, you",0.7
+"What do you say to a woman with two black eyes? Nothing, you already",0.8
+"What do you say to a woman with two black eyes? Nothing, you already told",0.8
+"What do you say to a woman with two black eyes? Nothing, you already told her",0.9
+"What do you say to a woman with two black eyes? Nothing, you already told her twice.",1
+Go,0
+Go back,0
+Go back to,0.9
+Go back to China.,1
+Did,0
+Did you,0
+Did you hear,0
+Did you hear about,0
+Did you hear about the,0
+Did you hear about the two,0
+Did you hear about the two car,0
+Did you hear about the two car pile,0
+Did you hear about the two car pile up,0
+Did you hear about the two car pile up in,0
+Did you hear about the two car pile up in Mexico?,0
+Did you hear about the two car pile up in Mexico? 200,0
+Did you hear about the two car pile up in Mexico? 200 Mexicans,0.9
+Did you hear about the two car pile up in Mexico? 200 Mexicans died.,1
+What,0
+What do,0
+What do African,0.7
+What do African teenagers,0.7
+What do African teenagers and,0.7
+What do African teenagers and bad,0.7
+What do African teenagers and bad wizards,0.7
+What do African teenagers and bad wizards have,0.7
+What do African teenagers and bad wizards have in,0.8
+What do African teenagers and bad wizards have in common?,0.8
+What do African teenagers and bad wizards have in common? They,0.8
+What do African teenagers and bad wizards have in common? They both,0.8
+What do African teenagers and bad wizards have in common? They both don’t,0.8
+What do African teenagers and bad wizards have in common? They both don’t know,0.8
+What do African teenagers and bad wizards have in common? They both don’t know how,0.8
+What do African teenagers and bad wizards have in common? They both don’t know how to,0.9
+What do African teenagers and bad wizards have in common? They both don’t know how to spell,1
+But,0
+But you're,0
+But you're not,0
+But you're not REALLY,0
+But you're not REALLY disabled.,0
+But you're not REALLY disabled. You,0
+But you're not REALLY disabled. You look,0
+But you're not REALLY disabled. You look so,0.9
+But you're not REALLY disabled. You look so pretty!,1
+Which,0
+Which Magic,0
+Which Magic Wand,0
+Which Magic Wand can,0
+Which Magic Wand can only,0
+Which Magic Wand can only make,0
+Which Magic Wand can only make Men,0.8
+Which Magic Wand can only make Men disappear?,0.8
+Which Magic Wand can only make Men disappear? Pregnancy,0.8
+Which Magic Wand can only make Men disappear? Pregnancy Test,0.9
+Which Magic Wand can only make Men disappear? Pregnancy Test Sticks,1
+Why,0
+Why do,0
+Why do black,0.5
+Why do black people,0.5
+Why do black people only,0.6
+Why do black people only have,0.6
+Why do black people only have nightmares?,0.6
+Why do black people only have nightmares? Because,0.6
+Why do black people only have nightmares? Because we,0.7
+Why do black people only have nightmares? Because we killed,0.7
+Why do black people only have nightmares? Because we killed the,0.7
+Why do black people only have nightmares? Because we killed the only,0.7
+Why do black people only have nightmares? Because we killed the only one,0.8
+Why do black people only have nightmares? Because we killed the only one with,0.8
+Why do black people only have nightmares? Because we killed the only one with a,0.9
+Why do black people only have nightmares? Because we killed the only one with a dream,1
+What's,0
+What's a,0
+What's a Jew's,0
+What's a Jew's favorite,0
+What's a Jew's favorite book?,0.8
+What's a Jew's favorite book? Gone,0.8
+What's a Jew's favorite book? Gone with,0.8
+What's a Jew's favorite book? Gone with the,0.9
+What's a Jew's favorite book? Gone with the wind.,1
+What,0
+What should,0
+What should you,0
+What should you never,0
+What should you never give,0
+What should you never give a,0
+What should you never give a dyslexic,0
+What should you never give a dyslexic person,0
+What should you never give a dyslexic person for,0
+What should you never give a dyslexic person for breakfast?,0.9
+What should you never give a dyslexic person for breakfast? Alpha-bits,1
+Everyone,0
+Everyone is,0
+Everyone is so,0
+Everyone is so politically,0
+Everyone is so politically correct,0
+Everyone is so politically correct these,0
+Everyone is so politically correct these days...,0
+Everyone is so politically correct these days... You,0
+Everyone is so politically correct these days... You can't,0
+Everyone is so politically correct these days... You can't even,0
+Everyone is so politically correct these days... You can't even say,0.5
+"Everyone is so politically correct these days... You can't even say ""black",0.5
+"Everyone is so politically correct these days... You can't even say ""black paint!""",0.6
+"Everyone is so politically correct these days... You can't even say ""black paint!"" You",0.6
+"Everyone is so politically correct these days... You can't even say ""black paint!"" You have",0.6
+"Everyone is so politically correct these days... You can't even say ""black paint!"" You have to",0.6
+"Everyone is so politically correct these days... You can't even say ""black paint!"" You have to say",0.7
+"Everyone is so politically correct these days... You can't even say ""black paint!"" You have to say ""tyrone",0.7
+"Everyone is so politically correct these days... You can't even say ""black paint!"" You have to say ""tyrone can",0.7
+"Everyone is so politically correct these days... You can't even say ""black paint!"" You have to say ""tyrone can you",0.7
+"Everyone is so politically correct these days... You can't even say ""black paint!"" You have to say ""tyrone can you paint",0.8
+"Everyone is so politically correct these days... You can't even say ""black paint!"" You have to say ""tyrone can you paint that",0.8
+"Everyone is so politically correct these days... You can't even say ""black paint!"" You have to say ""tyrone can you paint that wall",0.9
+"Everyone is so politically correct these days... You can't even say ""black paint!"" You have to say ""tyrone can you paint that wall please?""",1
+Women,0.7
+Women are,0.7
+Women are like,0.7
+Women are like wine:,0.7
+Women are like wine: I,0.7
+Women are like wine: I can,0.7
+Women are like wine: I can only,0.7
+Women are like wine: I can only afford,0.7
+Women are like wine: I can only afford the,0.7
+Women are like wine: I can only afford the really,0.8
+Women are like wine: I can only afford the really cheap,0.8
+Women are like wine: I can only afford the really cheap ones,0.8
+Women are like wine: I can only afford the really cheap ones that,0.8
+Women are like wine: I can only afford the really cheap ones that have,0.8
+Women are like wine: I can only afford the really cheap ones that have the,0.8
+"Women are like wine: I can only afford the really cheap ones that have the big,",0.8
+"Women are like wine: I can only afford the really cheap ones that have the big, ugly",0.8
+"Women are like wine: I can only afford the really cheap ones that have the big, ugly boxes",0.8
+"Women are like wine: I can only afford the really cheap ones that have the big, ugly boxes that",0.9
+"Women are like wine: I can only afford the really cheap ones that have the big, ugly boxes that leak.",1
+What's,0
+What's the,0
+What's the difference,0
+What's the difference between,0
+What's the difference between a,0
+What's the difference between a Jew,0.4
+What's the difference between a Jew and,0.4
+What's the difference between a Jew and a,0.5
+What's the difference between a Jew and a pizza?,0.5
+What's the difference between a Jew and a pizza? The,0.5
+What's the difference between a Jew and a pizza? The pizza,0.6
+What's the difference between a Jew and a pizza? The pizza doesn't,0.6
+What's the difference between a Jew and a pizza? The pizza doesn't scream,0.7
+What's the difference between a Jew and a pizza? The pizza doesn't scream when,0.7
+What's the difference between a Jew and a pizza? The pizza doesn't scream when it's,0.7
+What's the difference between a Jew and a pizza? The pizza doesn't scream when it's put,0.8
+What's the difference between a Jew and a pizza? The pizza doesn't scream when it's put in,0.8
+What's the difference between a Jew and a pizza? The pizza doesn't scream when it's put in the,0.9
+What's the difference between a Jew and a pizza? The pizza doesn't scream when it's put in the oven.,1
+WHY,0
+WHY are,0
+WHY are you,0.9
+WHY are you Atheist?,1
+Doctor::,0
+Doctor:: How,0
+Doctor:: How did,0
+Doctor:: How did this,0
+Doctor:: How did this happen?,0
+Doctor:: How did this happen? Me::,0
+Doctor:: How did this happen? Me:: My,0
+Doctor:: How did this happen? Me:: My mother,0
+Doctor:: How did this happen? Me:: My mother pushed,0
+Doctor:: How did this happen? Me:: My mother pushed me,0
+Doctor:: How did this happen? Me:: My mother pushed me down,0
+Doctor:: How did this happen? Me:: My mother pushed me down some,0
+Doctor:: How did this happen? Me:: My mother pushed me down some stairs,0
+Doctor:: How did this happen? Me:: My mother pushed me down some stairs when,0
+Doctor:: How did this happen? Me:: My mother pushed me down some stairs when I,0
+Doctor:: How did this happen? Me:: My mother pushed me down some stairs when I told,0
+Doctor:: How did this happen? Me:: My mother pushed me down some stairs when I told her,0
+Doctor:: How did this happen? Me:: My mother pushed me down some stairs when I told her that,0
+Doctor:: How did this happen? Me:: My mother pushed me down some stairs when I told her that I'm,0
+Doctor:: How did this happen? Me:: My mother pushed me down some stairs when I told her that I'm a,0
+Doctor:: How did this happen? Me:: My mother pushed me down some stairs when I told her that I'm a lesbian.,0.8
+Doctor:: How did this happen? Me:: My mother pushed me down some stairs when I told her that I'm a lesbian. Doctor::,0.8
+"Doctor:: How did this happen? Me:: My mother pushed me down some stairs when I told her that I'm a lesbian. Doctor:: Oh,",0.8
+"Doctor:: How did this happen? Me:: My mother pushed me down some stairs when I told her that I'm a lesbian. Doctor:: Oh, that's",0.8
+"Doctor:: How did this happen? Me:: My mother pushed me down some stairs when I told her that I'm a lesbian. Doctor:: Oh, that's understandable",0.9
+"Doctor:: How did this happen? Me:: My mother pushed me down some stairs when I told her that I'm a lesbian. Doctor:: Oh, that's understandable then.",1
+Well,0
+Well you,0
+"Well you know,",0
+"Well you know, you",0
+"Well you know, you are",0
+"Well you know, you are going",0
+"Well you know, you are going to",0
+"Well you know, you are going to have",0
+"Well you know, you are going to have to",0
+"Well you know, you are going to have to deal",0
+"Well you know, you are going to have to deal with",0
+"Well you know, you are going to have to deal with some",0
+"Well you know, you are going to have to deal with some uneducatable",0
+"Well you know, you are going to have to deal with some uneducatable black",0.9
+"Well you know, you are going to have to deal with some uneducatable black kids.",1
+Africa,0
+Africa is,0
+Africa is really,0
+Africa is really boring,0
+Africa is really boring during,0
+Africa is really boring during Halloween,0
+Africa is really boring during Halloween Everyone's,0
+Africa is really boring during Halloween Everyone's a,0.9
+Africa is really boring during Halloween Everyone's a skeleton,1
+what,0
+what is,0
+what is a,0
+what is a muslim,0.4
+what is a muslim 's,0.4
+what is a muslim 's favourite,0.5
+what is a muslim 's favourite band,0.5
+what is a muslim 's favourite band ?,0.5
+what is a muslim 's favourite band ? the,0.6
+what is a muslim 's favourite band ? the taliband,0.6
+"what is a muslim 's favourite band ? the taliband ,",0.6
+"what is a muslim 's favourite band ? the taliband , their",0.7
+"what is a muslim 's favourite band ? the taliband , their performances",0.7
+"what is a muslim 's favourite band ? the taliband , their performances always",0.7
+"what is a muslim 's favourite band ? the taliband , their performances always blows",0.8
+"what is a muslim 's favourite band ? the taliband , their performances always blows the",0.8
+"what is a muslim 's favourite band ? the taliband , their performances always blows the audience",0.9
+"what is a muslim 's favourite band ? the taliband , their performances always blows the audience away",1
+"Agreed,",0
+"Agreed, The",0
+"Agreed, The Blacks",0
+"Agreed, The Blacks and",0
+"Agreed, The Blacks and Hispanics",0
+"Agreed, The Blacks and Hispanics should",0
+"Agreed, The Blacks and Hispanics should have",0
+"Agreed, The Blacks and Hispanics should have their",0
+"Agreed, The Blacks and Hispanics should have their own",0
+"Agreed, The Blacks and Hispanics should have their own school",0
+"Agreed, The Blacks and Hispanics should have their own school only",0
+"Agreed, The Blacks and Hispanics should have their own school only for",0
+"Agreed, The Blacks and Hispanics should have their own school only for them",0
+"Agreed, The Blacks and Hispanics should have their own school only for them and",0
+"Agreed, The Blacks and Hispanics should have their own school only for them and have",0
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse",0
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education",0
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education than",0
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education than the",0
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education than the children",0
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education than the children whites",0
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education than the children whites like",0.6
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education than the children whites like that",0.6
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education than the children whites like that might",0.7
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education than the children whites like that might not",0.7
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education than the children whites like that might not compete",0.7
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education than the children whites like that might not compete with",0.7
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education than the children whites like that might not compete with our",0.8
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education than the children whites like that might not compete with our children",0.8
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education than the children whites like that might not compete with our children whites",0.9
+"Agreed, The Blacks and Hispanics should have their own school only for them and have worse education than the children whites like that might not compete with our children whites .",1
+My,0
+My boyfriend,0.7
+My boyfriend is,0.7
+My boyfriend is half,0.7
+My boyfriend is half black.,0.7
+"My boyfriend is half black. Sorry,",0.7
+"My boyfriend is half black. Sorry, I’m",0.8
+"My boyfriend is half black. Sorry, I’m such",0.8
+"My boyfriend is half black. Sorry, I’m such a",0.8
+"My boyfriend is half black. Sorry, I’m such a pessimist.",0.8
+"My boyfriend is half black. Sorry, I’m such a pessimist. He’s",0.8
+"My boyfriend is half black. Sorry, I’m such a pessimist. He’s half",0.9
+"My boyfriend is half black. Sorry, I’m such a pessimist. He’s half white.",1
+cripples,0
+cripples what,0
+cripples what do,0
+cripples what do you,0
+cripples what do you call,0
+cripples what do you call three,0
+cripples what do you call three people,0
+cripples what do you call three people in,0
+cripples what do you call three people in wheelchairs,0
+cripples what do you call three people in wheelchairs stacked,0
+cripples what do you call three people in wheelchairs stacked on,0
+cripples what do you call three people in wheelchairs stacked on top,0
+cripples what do you call three people in wheelchairs stacked on top of,0
+cripples what do you call three people in wheelchairs stacked on top of each,0
+cripples what do you call three people in wheelchairs stacked on top of each other,0
+cripples what do you call three people in wheelchairs stacked on top of each other ?,0
+cripples what do you call three people in wheelchairs stacked on top of each other ? a,0
+cripples what do you call three people in wheelchairs stacked on top of each other ? a vegetable,0
+cripples what do you call three people in wheelchairs stacked on top of each other ? a vegetable rack,0.9
+cripples what do you call three people in wheelchairs stacked on top of each other ? a vegetable rack .,1
+why,0
+why did,0
+why did they,0
+why did they plant,0
+why did they plant trees,0
+why did they plant trees in,0
+why did they plant trees in harlem,0
+why did they plant trees in harlem ?,0
+why did they plant trees in harlem ? for,0
+why did they plant trees in harlem ? for free,0
+why did they plant trees in harlem ? for free public,0
+why did they plant trees in harlem ? for free public transit,0.9
+why did they plant trees in harlem ? for free public transit .,1
+Muslims,0
+Muslims aren't,0
+Muslims aren't terrorists,0
+Muslims aren't terrorists They,0
+Muslims aren't terrorists They just,0
+Muslims aren't terrorists They just want,0
+Muslims aren't terrorists They just want to,0
+Muslims aren't terrorists They just want to die,0
+Muslims aren't terrorists They just want to die on,0
+Muslims aren't terrorists They just want to die on their,0
+Muslims aren't terrorists They just want to die on their own,0
+Muslims aren't terrorists They just want to die on their own terms,0
+Muslims aren't terrorists They just want to die on their own terms but,0
+Muslims aren't terrorists They just want to die on their own terms but don't,0
+Muslims aren't terrorists They just want to die on their own terms but don't want,0
+Muslims aren't terrorists They just want to die on their own terms but don't want to,0
+Muslims aren't terrorists They just want to die on their own terms but don't want to do,0
+Muslims aren't terrorists They just want to die on their own terms but don't want to do it,0.9
+Muslims aren't terrorists They just want to die on their own terms but don't want to do it alone.,1
+What,0
+What do,0
+What do you,0
+What do you call,0
+What do you call 1,0
+What do you call 1 black,0.7
+What do you call 1 black person,0.7
+What do you call 1 black person on,0.7
+What do you call 1 black person on the,0.7
+What do you call 1 black person on the moon?,0.7
+What do you call 1 black person on the moon? A,0.7
+What do you call 1 black person on the moon? A problem,0.7
+What do you call 1 black person on the moon? A problem What,0.7
+What do you call 1 black person on the moon? A problem What do,0.7
+What do you call 1 black person on the moon? A problem What do you,0.7
+What do you call 1 black person on the moon? A problem What do you call,0.7
+What do you call 1 black person on the moon? A problem What do you call 2,0.7
+What do you call 1 black person on the moon? A problem What do you call 2 black,0.7
+What do you call 1 black person on the moon? A problem What do you call 2 black people,0.7
+What do you call 1 black person on the moon? A problem What do you call 2 black people on,0.7
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the,0.7
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon?,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What do,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What do you,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What do you call,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What do you call the,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What do you call the entire,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What do you call the entire population,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What do you call the entire population of,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What do you call the entire population of black,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What do you call the entire population of black people,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What do you call the entire population of black people on,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What do you call the entire population of black people on the,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What do you call the entire population of black people on the moon?,0.8
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What do you call the entire population of black people on the moon? Problem,0.9
+What do you call 1 black person on the moon? A problem What do you call 2 black people on the moon? A problem What do you call the entire population of black people on the moon? Problem solved!,1
+What,0
+What do,0
+What do you,0
+What do you call,0
+What do you call a,0
+What do you call a white,0.7
+What do you call a white girl,0.7
+What do you call a white girl who’s,0.7
+What do you call a white girl who’s faster,0.7
+What do you call a white girl who’s faster than,0.8
+What do you call a white girl who’s faster than her,0.8
+What do you call a white girl who’s faster than her brothers?,0.8
+What do you call a white girl who’s faster than her brothers? A,0.8
+What do you call a white girl who’s faster than her brothers? A redneck,0.9
+What do you call a white girl who’s faster than her brothers? A redneck virgin,1
+Why,0
+Why do,0
+Why do black,0.7
+Why do black rappers,0.7
+Why do black rappers always,0.7
+Why do black rappers always wear,0.7
+Why do black rappers always wear jewelry?,0.7
+Why do black rappers always wear jewelry? The,0.7
+Why do black rappers always wear jewelry? The chains,0.8
+Why do black rappers always wear jewelry? The chains remind,0.8
+Why do black rappers always wear jewelry? The chains remind them,0.8
+Why do black rappers always wear jewelry? The chains remind them of,0.8
+Why do black rappers always wear jewelry? The chains remind them of were,0.8
+Why do black rappers always wear jewelry? The chains remind them of were they,0.8
+Why do black rappers always wear jewelry? The chains remind them of were they came,0.9
+Why do black rappers always wear jewelry? The chains remind them of were they came from.,1
+wanna,0
+wanna be,0
+wanna be like,0.5
+wanna be like hitler,0.5
+"wanna be like hitler ,",0.6
+"wanna be like hitler , but",0.6
+"wanna be like hitler , but have",0.6
+"wanna be like hitler , but have no",0.6
+"wanna be like hitler , but have no oven",0.6
+"wanna be like hitler , but have no oven ?",0.7
+"wanna be like hitler , but have no oven ? throw",0.7
+"wanna be like hitler , but have no oven ? throw a",0.7
+"wanna be like hitler , but have no oven ? throw a penny",0.8
+"wanna be like hitler , but have no oven ? throw a penny off",0.8
+"wanna be like hitler , but have no oven ? throw a penny off a",0.8
+"wanna be like hitler , but have no oven ? throw a penny off a cliff",0.9
+"wanna be like hitler , but have no oven ? throw a penny off a cliff .",1
+how,0
+how do,0
+how do you,0
+how do you find,0
+how do you find a,0
+how do you find a black,0.7
+how do you find a black person,0.8
+how do you find a black person ?,0.9
+how do you find a black person ? guilty,1
+Why,0
+Why are,0
+Why are all,0
+Why are all women,0.6
+Why are all women left,0.6
+Why are all women left handed?,0.7
+Why are all women left handed? Because,0.7
+Why are all women left handed? Because they,0.8
+Why are all women left handed? Because they don't,0.8
+Why are all women left handed? Because they don't have,0.9
+Why are all women left handed? Because they don't have rights.,1
+Now,0
+Now now,0
+Now now lets,0
+Now now lets not,0
+Now now lets not discriminate,0
+Now now lets not discriminate between,0
+Now now lets not discriminate between muslims,0
+Now now lets not discriminate between muslims and,0
+Now now lets not discriminate between muslims and jews,0.7
+"Now now lets not discriminate between muslims and jews ,",0.7
+"Now now lets not discriminate between muslims and jews , I",0.7
+"Now now lets not discriminate between muslims and jews , I say",0.7
+"Now now lets not discriminate between muslims and jews , I say get",0.7
+"Now now lets not discriminate between muslims and jews , I say get them",0.7
+"Now now lets not discriminate between muslims and jews , I say get them all",0.7
+"Now now lets not discriminate between muslims and jews , I say get them all back",0.7
+"Now now lets not discriminate between muslims and jews , I say get them all back to",0.7
+"Now now lets not discriminate between muslims and jews , I say get them all back to the",0.7
+"Now now lets not discriminate between muslims and jews , I say get them all back to the middle",0.8
+"Now now lets not discriminate between muslims and jews , I say get them all back to the middle east",0.8
+"Now now lets not discriminate between muslims and jews , I say get them all back to the middle east and",0.8
+"Now now lets not discriminate between muslims and jews , I say get them all back to the middle east and turn",0.8
+"Now now lets not discriminate between muslims and jews , I say get them all back to the middle east and turn the",0.8
+"Now now lets not discriminate between muslims and jews , I say get them all back to the middle east and turn the whole",0.8
+"Now now lets not discriminate between muslims and jews , I say get them all back to the middle east and turn the whole sand",0.8
+"Now now lets not discriminate between muslims and jews , I say get them all back to the middle east and turn the whole sand pit",0.8
+"Now now lets not discriminate between muslims and jews , I say get them all back to the middle east and turn the whole sand pit to",0.8
+"Now now lets not discriminate between muslims and jews , I say get them all back to the middle east and turn the whole sand pit to radioactive",0.8
+"Now now lets not discriminate between muslims and jews , I say get them all back to the middle east and turn the whole sand pit to radioactive glass",0.9
+"Now now lets not discriminate between muslims and jews , I say get them all back to the middle east and turn the whole sand pit to radioactive glass .",1
+You,0
+You mean,0
+You mean your,0
+You mean your boyfriend,0.6
+You mean your boyfriend coded,0.6
+You mean your boyfriend coded it,0.7
+You mean your boyfriend coded it up,0.8
+You mean your boyfriend coded it up in,0.8
+You mean your boyfriend coded it up in a,0.9
+You mean your boyfriend coded it up in a week!,1
+I,0
+I believe,0
+I believe in,0
+I believe in equal,0
+I believe in equal rights,0
+I believe in equal rights for,0
+I believe in equal rights for gay,0.5
+"I believe in equal rights for gay people,",0.5
+"I believe in equal rights for gay people, but",0.6
+"I believe in equal rights for gay people, but I",0.6
+"I believe in equal rights for gay people, but I wish",0.6
+"I believe in equal rights for gay people, but I wish they",0.7
+"I believe in equal rights for gay people, but I wish they wouldn't",0.7
+"I believe in equal rights for gay people, but I wish they wouldn't kiss",0.7
+"I believe in equal rights for gay people, but I wish they wouldn't kiss in",0.8
+"I believe in equal rights for gay people, but I wish they wouldn't kiss in public.",0.8
+"I believe in equal rights for gay people, but I wish they wouldn't kiss in public. It's",0.9
+"I believe in equal rights for gay people, but I wish they wouldn't kiss in public. It's gross.",1
+How,0
+How do,0
+How do you,0
+How do you stop,0
+How do you stop black,0.8
+How do you stop black guys,0.8
+How do you stop black guys from,0.8
+How do you stop black guys from hanging,0.8
+How do you stop black guys from hanging out,0.8
+How do you stop black guys from hanging out in,0.8
+How do you stop black guys from hanging out in front,0.8
+How do you stop black guys from hanging out in front of,0.8
+How do you stop black guys from hanging out in front of your,0.8
+How do you stop black guys from hanging out in front of your house?,0.8
+How do you stop black guys from hanging out in front of your house? Cut,0.8
+How do you stop black guys from hanging out in front of your house? Cut the,0.9
+How do you stop black guys from hanging out in front of your house? Cut the rope.,1
+Classmate::,0
+"Classmate:: So,",0
+"Classmate:: So, which",0
+"Classmate:: So, which one",0
+"Classmate:: So, which one of",0
+"Classmate:: So, which one of your",0
+"Classmate:: So, which one of your parents",0
+"Classmate:: So, which one of your parents is",0
+"Classmate:: So, which one of your parents is black",0.4
+"Classmate:: So, which one of your parents is black and",0.4
+"Classmate:: So, which one of your parents is black and which",0.4
+"Classmate:: So, which one of your parents is black and which is",0.4
+"Classmate:: So, which one of your parents is black and which is white?",0.5
+"Classmate:: So, which one of your parents is black and which is white? Me::",0.5
+"Classmate:: So, which one of your parents is black and which is white? Me:: My",0.5
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom",0.5
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is",0.5
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white",0.5
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and",0.5
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my",0.6
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad",0.6
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is",0.6
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black.",0.6
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate::",0.6
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying",0.6
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to",0.6
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to by",0.6
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to by funny)",0.7
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to by funny) So,",0.7
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to by funny) So, your",0.7
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to by funny) So, your mom",0.7
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to by funny) So, your mom was",0.7
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to by funny) So, your mom was a",0.7
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to by funny) So, your mom was a rape",0.7
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to by funny) So, your mom was a rape victim?",0.8
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to by funny) So, your mom was a rape victim? I",0.8
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to by funny) So, your mom was a rape victim? I was",0.8
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to by funny) So, your mom was a rape victim? I was 17",0.8
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to by funny) So, your mom was a rape victim? I was 17 years",0.9
+"Classmate:: So, which one of your parents is black and which is white? Me:: My mom is white and my dad is black. Classmate:: (trying to by funny) So, your mom was a rape victim? I was 17 years old.",1

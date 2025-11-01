@@ -1,0 +1,22 @@
+text:
+  max_len: 512
+
+lstm:
+  lstm_hidden_size: 512
+  lstm_layers: 3
+
+classifier:
+  classifier_hidden_size: 512
+  dropout: 0.6
+
+training:
+  batch_size: 64
+  lr: 0.000005
+  epochs: 500
+  val_split_ratio: 0.15
+  patience: 10
+  max_grad_norm: 1.0
+  weight_decay: 0.001
+
+loss_computation: "logits" # "probabilities" or "logits" or "handcrafted"
+samples_debug: 1000
