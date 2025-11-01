@@ -94,3 +94,5 @@ Here follow an example of a training pipeline that can be executed, using the BE
 ```bash
     python3 ~/Predictor/predictor_BERT_handcrafted.py - --dataset_path ~/Predictor/data_test/ --result_path ~/Predictor/results_probabilities/ --load_model_dir ~/Predictor/results_classification/<model_finetuned> --test
 ```
+
+**Contributors**: Timothé Dard, Federico Rocca and Nevo Mirzai Hamadani
